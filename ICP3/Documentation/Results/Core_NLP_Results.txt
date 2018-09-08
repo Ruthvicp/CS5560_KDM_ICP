@@ -1,0 +1,6270 @@
+"C:\Program Files\Java\jdk1.8.0_162\bin\java.exe" "-javaagent:C:\Users\ruthv\IntelliJ IDEA 2018.1.1\lib\idea_rt.jar=51743:C:\Users\ruthv\IntelliJ IDEA 2018.1.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_162\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar;C:\Users\ruthv\IdeaProjects\KDM_ICP2\CS5560 - T2 CoreNLP SourceCode\CS5560 - T2 CoreNLP SourceCode\Tutorial-2-CoreNLP\target\scala-2.11\classes;C:\Users\ruthv\.ivy2\cache\com.googlecode.efficient-java-matrix-library\ejml\jars\ejml-0.23.jar;C:\Users\ruthv\.ivy2\cache\edu.stanford.nlp\stanford-parser\jars\stanford-parser-3.9.1.jar;C:\Users\ruthv\.ivy2\cache\xml-apis\xml-apis\jars\xml-apis-1.3.03.jar;C:\Users\ruthv\.ivy2\cache\xerces\xercesImpl\jars\xercesImpl-2.8.0.jar;C:\Users\ruthv\.ivy2\cache\xalan\xalan\jars\xalan-2.7.0.jar;C:\Users\ruthv\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar;C:\Users\ruthv\.ivy2\cache\javax.xml.bind\jaxb-api\jars\jaxb-api-2.2.7.jar;C:\Users\ruthv\.ivy2\cache\com.io7m.xom\xom\jars\xom-1.2.10.jar;C:\Users\ruthv\.ivy2\cache\com.apple\AppleJavaExtensions\jars\AppleJavaExtensions-1.4.jar;C:\Users\ruthv\.ivy2\cache\com.google.protobuf\protobuf-java\bundles\protobuf-java-3.2.0.jar;C:\Users\ruthv\.ivy2\cache\de.jollyday\jollyday\jars\jollyday-0.4.9.jar;C:\Users\ruthv\.ivy2\cache\javax.servlet\javax.servlet-api\jars\javax.servlet-api-3.0.1.jar;C:\Users\ruthv\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.9.4.jar;C:\Users\ruthv\.ivy2\cache\org.apache.commons\commons-lang3\jars\commons-lang3-3.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.lucene\lucene-analyzers-common\jars\lucene-analyzers-common-4.10.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.lucene\lucene-core\jars\lucene-core-4.10.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.lucene\lucene-queries\jars\lucene-queries-4.10.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.lucene\lucene-queryparser\jars\lucene-queryparser-4.10.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.lucene\lucene-sandbox\jars\lucene-sandbox-4.10.3.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish\javax.json\bundles\javax.json-1.0.4.jar;C:\Users\ruthv\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.12.jar;C:\Users\ruthv\.ivy2\cache\edu.stanford.nlp\stanford-corenlp\jars\stanford-corenlp-3.9.1.jar;C:\Users\ruthv\.ivy2\cache\edu.stanford.nlp\stanford-corenlp\jars\stanford-corenlp-3.9.1-models.jar" Main
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Annotation step - Although intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists are efficacious in the treatment of seasonal allergic rhinitis (SAR), combinations of these agents have not unequivocally been demonstrated to be superior to the individual drugs. We aimed to compare the efficacy and potential mechanisms of budesonide nasal spray (BD), oral montelukast (MNT), and combination therapy comprising a half-dose of budesonide plus montelukast (hBD+MNT) in SAR patients.
+
+The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal is still lacking. We conducted a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway. Our final study population was made up of 57 adults who were randomized to a prophylactic treatment group and a control group. The prophylaxis group was made up of 31 patients-10 men and 21 women, aged 18 to 54 years (mean: 36.9)-who were administered montelukast for 2 weeks before the cypress pollen season and subsequently throughout the remainder of the season. The control group was made up of 26 patients-11 men and 15 women, aged 24 to 63 years (mean: 39.2)-who took montelukast during the pollen season only. During the pollen season, the mean daily rescue medication score was significantly lower in the prophylaxis group (3.22 vs. 3.89; p = 0.001). However, there was no statistical difference in the two groups' mean daily rhinoconjunctivitis symptom scores. Also, the fraction of exhaled nitric oxide in the prophylaxis group tended to be lower than that of control group, but again the difference was not significant (29.8 vs. 42.1 ppb; p = 0.189). We conclude that antileukotriene prophylaxis started 2 weeks before the cypress pollen dispersal was effective in reducing the need for rescue medication during the pollen season and showed a trend toward alleviating the eosinophilic inflammation in the lower airway induced by the pollen.
+
+To review oral allergy syndrome (OAS)
+
+The Joint Task Force on Practice Parameters, which comprises representatives of the American Academy of Allergy, Asthma and Immunology (AAAAI) and the American College of Allergy, Asthma and Immunology (ACAAI), formed a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older.
+
+Cetirizine has been shown to be effective for relief of seasonal allergic rhinitis (SAR) symptoms. Allergic rhinitis symptoms have been reported to have circadian variations, with symptoms tending to be most bothersome overnight and in the morning. 
+
+Although-1
+Text Annotation
+Although-1:Although
+Lemma Annotation
+Although-1:although
+POS
+Although-1:IN
+NER
+Although-1:O
+
+
+
+
+intranasal-2
+Text Annotation
+intranasal-2:intranasal
+Lemma Annotation
+intranasal-2:intranasal
+POS
+intranasal-2:JJ
+NER
+intranasal-2:O
+
+
+
+
+steroids-3
+Text Annotation
+steroids-3:steroids
+Lemma Annotation
+steroids-3:steroid
+POS
+steroids-3:NNS
+NER
+steroids-3:O
+
+
+
+
+and-4
+Text Annotation
+and-4:and
+Lemma Annotation
+and-4:and
+POS
+and-4:CC
+NER
+and-4:O
+
+
+
+
+anti-cysteinyl-leukotriene-receptor-5
+Text Annotation
+anti-cysteinyl-leukotriene-receptor-5:anti-cysteinyl-leukotriene-receptor
+Lemma Annotation
+anti-cysteinyl-leukotriene-receptor-5:anti-cysteinyl-leukotriene-receptor
+POS
+anti-cysteinyl-leukotriene-receptor-5:JJ
+NER
+anti-cysteinyl-leukotriene-receptor-5:O
+
+
+
+
+antagonists-6
+Text Annotation
+antagonists-6:antagonists
+Lemma Annotation
+antagonists-6:antagonist
+POS
+antagonists-6:NNS
+NER
+antagonists-6:O
+
+
+
+
+are-7
+Text Annotation
+are-7:are
+Lemma Annotation
+are-7:be
+POS
+are-7:VBP
+NER
+are-7:O
+
+
+
+
+efficacious-8
+Text Annotation
+efficacious-8:efficacious
+Lemma Annotation
+efficacious-8:efficacious
+POS
+efficacious-8:JJ
+NER
+efficacious-8:O
+
+
+
+
+in-9
+Text Annotation
+in-9:in
+Lemma Annotation
+in-9:in
+POS
+in-9:IN
+NER
+in-9:O
+
+
+
+
+the-10
+Text Annotation
+the-10:the
+Lemma Annotation
+the-10:the
+POS
+the-10:DT
+NER
+the-10:O
+
+
+
+
+treatment-11
+Text Annotation
+treatment-11:treatment
+Lemma Annotation
+treatment-11:treatment
+POS
+treatment-11:NN
+NER
+treatment-11:O
+
+
+
+
+of-12
+Text Annotation
+of-12:of
+Lemma Annotation
+of-12:of
+POS
+of-12:IN
+NER
+of-12:O
+
+
+
+
+seasonal-13
+Text Annotation
+seasonal-13:seasonal
+Lemma Annotation
+seasonal-13:seasonal
+POS
+seasonal-13:JJ
+NER
+seasonal-13:O
+
+
+
+
+allergic-14
+Text Annotation
+allergic-14:allergic
+Lemma Annotation
+allergic-14:allergic
+POS
+allergic-14:JJ
+NER
+allergic-14:O
+
+
+
+
+rhinitis-15
+Text Annotation
+rhinitis-15:rhinitis
+Lemma Annotation
+rhinitis-15:rhinitis
+POS
+rhinitis-15:NN
+NER
+rhinitis-15:O
+
+
+
+
+-LRB--16
+Text Annotation
+-LRB--16:-LRB-
+Lemma Annotation
+-LRB--16:-lrb-
+POS
+-LRB--16:-LRB-
+NER
+-LRB--16:O
+
+
+
+
+SAR-17
+Text Annotation
+SAR-17:SAR
+Lemma Annotation
+SAR-17:sar
+POS
+SAR-17:NN
+NER
+SAR-17:O
+
+
+
+
+-RRB--18
+Text Annotation
+-RRB--18:-RRB-
+Lemma Annotation
+-RRB--18:-rrb-
+POS
+-RRB--18:-RRB-
+NER
+-RRB--18:O
+
+
+
+
+,-19
+Text Annotation
+,-19:,
+Lemma Annotation
+,-19:,
+POS
+,-19:,
+NER
+,-19:O
+
+
+
+
+combinations-20
+Text Annotation
+combinations-20:combinations
+Lemma Annotation
+combinations-20:combination
+POS
+combinations-20:NNS
+NER
+combinations-20:O
+
+
+
+
+of-21
+Text Annotation
+of-21:of
+Lemma Annotation
+of-21:of
+POS
+of-21:IN
+NER
+of-21:O
+
+
+
+
+these-22
+Text Annotation
+these-22:these
+Lemma Annotation
+these-22:these
+POS
+these-22:DT
+NER
+these-22:O
+
+
+
+
+agents-23
+Text Annotation
+agents-23:agents
+Lemma Annotation
+agents-23:agent
+POS
+agents-23:NNS
+NER
+agents-23:O
+
+
+
+
+have-24
+Text Annotation
+have-24:have
+Lemma Annotation
+have-24:have
+POS
+have-24:VBP
+NER
+have-24:O
+
+
+
+
+not-25
+Text Annotation
+not-25:not
+Lemma Annotation
+not-25:not
+POS
+not-25:RB
+NER
+not-25:O
+
+
+
+
+unequivocally-26
+Text Annotation
+unequivocally-26:unequivocally
+Lemma Annotation
+unequivocally-26:unequivocally
+POS
+unequivocally-26:RB
+NER
+unequivocally-26:O
+
+
+
+
+been-27
+Text Annotation
+been-27:been
+Lemma Annotation
+been-27:be
+POS
+been-27:VBN
+NER
+been-27:O
+
+
+
+
+demonstrated-28
+Text Annotation
+demonstrated-28:demonstrated
+Lemma Annotation
+demonstrated-28:demonstrate
+POS
+demonstrated-28:VBN
+NER
+demonstrated-28:O
+
+
+
+
+to-29
+Text Annotation
+to-29:to
+Lemma Annotation
+to-29:to
+POS
+to-29:TO
+NER
+to-29:O
+
+
+
+
+be-30
+Text Annotation
+be-30:be
+Lemma Annotation
+be-30:be
+POS
+be-30:VB
+NER
+be-30:O
+
+
+
+
+superior-31
+Text Annotation
+superior-31:superior
+Lemma Annotation
+superior-31:superior
+POS
+superior-31:JJ
+NER
+superior-31:O
+
+
+
+
+to-32
+Text Annotation
+to-32:to
+Lemma Annotation
+to-32:to
+POS
+to-32:TO
+NER
+to-32:O
+
+
+
+
+the-33
+Text Annotation
+the-33:the
+Lemma Annotation
+the-33:the
+POS
+the-33:DT
+NER
+the-33:O
+
+
+
+
+individual-34
+Text Annotation
+individual-34:individual
+Lemma Annotation
+individual-34:individual
+POS
+individual-34:JJ
+NER
+individual-34:O
+
+
+
+
+drugs-35
+Text Annotation
+drugs-35:drugs
+Lemma Annotation
+drugs-35:drug
+POS
+drugs-35:NNS
+NER
+drugs-35:CRIMINAL_CHARGE
+
+
+
+
+.-36
+Text Annotation
+.-36:.
+Lemma Annotation
+.-36:.
+POS
+.-36:.
+NER
+.-36:O
+
+
+
+(ROOT (S (SBAR (IN Although) (S (NP (NP (JJ intranasal) (NNS steroids)) (CC and) (NP (JJ anti-cysteinyl-leukotriene-receptor) (NNS antagonists))) (VP (VBP are) (ADJP (JJ efficacious) (PP (IN in) (NP (NP (DT the) (NN treatment)) (PP (IN of) (NP (NP (JJ seasonal) (JJ allergic) (NN rhinitis)) (PRN (-LRB- -LRB-) (NP (NN SAR)) (-RRB- -RRB-)))))))))) (, ,) (NP (NP (NNS combinations)) (PP (IN of) (NP (DT these) (NNS agents)))) (VP (VBP have) (RB not) (ADVP (RB unequivocally)) (VP (VBN been) (VP (VBN demonstrated) (S (VP (TO to) (VP (VB be) (ADJP (JJ superior) (PP (TO to) (NP (DT the) (JJ individual) (NNS drugs)))))))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+We-1
+Text Annotation
+We-1:We
+Lemma Annotation
+We-1:we
+POS
+We-1:PRP
+NER
+We-1:O
+
+
+
+
+aimed-2
+Text Annotation
+aimed-2:aimed
+Lemma Annotation
+aimed-2:aim
+POS
+aimed-2:VBD
+NER
+aimed-2:O
+
+
+
+
+to-3
+Text Annotation
+to-3:to
+Lemma Annotation
+to-3:to
+POS
+to-3:TO
+NER
+to-3:O
+
+
+
+
+compare-4
+Text Annotation
+compare-4:compare
+Lemma Annotation
+compare-4:compare
+POS
+compare-4:VB
+NER
+compare-4:O
+
+
+
+
+the-5
+Text Annotation
+the-5:the
+Lemma Annotation
+the-5:the
+POS
+the-5:DT
+NER
+the-5:O
+
+
+
+
+efficacy-6
+Text Annotation
+efficacy-6:efficacy
+Lemma Annotation
+efficacy-6:efficacy
+POS
+efficacy-6:NN
+NER
+efficacy-6:O
+
+
+
+
+and-7
+Text Annotation
+and-7:and
+Lemma Annotation
+and-7:and
+POS
+and-7:CC
+NER
+and-7:O
+
+
+
+
+potential-8
+Text Annotation
+potential-8:potential
+Lemma Annotation
+potential-8:potential
+POS
+potential-8:JJ
+NER
+potential-8:O
+
+
+
+
+mechanisms-9
+Text Annotation
+mechanisms-9:mechanisms
+Lemma Annotation
+mechanisms-9:mechanism
+POS
+mechanisms-9:NNS
+NER
+mechanisms-9:O
+
+
+
+
+of-10
+Text Annotation
+of-10:of
+Lemma Annotation
+of-10:of
+POS
+of-10:IN
+NER
+of-10:O
+
+
+
+
+budesonide-11
+Text Annotation
+budesonide-11:budesonide
+Lemma Annotation
+budesonide-11:budesonide
+POS
+budesonide-11:NN
+NER
+budesonide-11:O
+
+
+
+
+nasal-12
+Text Annotation
+nasal-12:nasal
+Lemma Annotation
+nasal-12:nasal
+POS
+nasal-12:JJ
+NER
+nasal-12:O
+
+
+
+
+spray-13
+Text Annotation
+spray-13:spray
+Lemma Annotation
+spray-13:spray
+POS
+spray-13:NN
+NER
+spray-13:O
+
+
+
+
+-LRB--14
+Text Annotation
+-LRB--14:-LRB-
+Lemma Annotation
+-LRB--14:-lrb-
+POS
+-LRB--14:-LRB-
+NER
+-LRB--14:O
+
+
+
+
+BD-15
+Text Annotation
+BD-15:BD
+Lemma Annotation
+BD-15:bd
+POS
+BD-15:NN
+NER
+BD-15:O
+
+
+
+
+-RRB--16
+Text Annotation
+-RRB--16:-RRB-
+Lemma Annotation
+-RRB--16:-rrb-
+POS
+-RRB--16:-RRB-
+NER
+-RRB--16:O
+
+
+
+
+,-17
+Text Annotation
+,-17:,
+Lemma Annotation
+,-17:,
+POS
+,-17:,
+NER
+,-17:O
+
+
+
+
+oral-18
+Text Annotation
+oral-18:oral
+Lemma Annotation
+oral-18:oral
+POS
+oral-18:JJ
+NER
+oral-18:O
+
+
+
+
+montelukast-19
+Text Annotation
+montelukast-19:montelukast
+Lemma Annotation
+montelukast-19:montelukast
+POS
+montelukast-19:NN
+NER
+montelukast-19:O
+
+
+
+
+-LRB--20
+Text Annotation
+-LRB--20:-LRB-
+Lemma Annotation
+-LRB--20:-lrb-
+POS
+-LRB--20:-LRB-
+NER
+-LRB--20:O
+
+
+
+
+MNT-21
+Text Annotation
+MNT-21:MNT
+Lemma Annotation
+MNT-21:mnt
+POS
+MNT-21:NN
+NER
+MNT-21:O
+
+
+
+
+-RRB--22
+Text Annotation
+-RRB--22:-RRB-
+Lemma Annotation
+-RRB--22:-rrb-
+POS
+-RRB--22:-RRB-
+NER
+-RRB--22:O
+
+
+
+
+,-23
+Text Annotation
+,-23:,
+Lemma Annotation
+,-23:,
+POS
+,-23:,
+NER
+,-23:O
+
+
+
+
+and-24
+Text Annotation
+and-24:and
+Lemma Annotation
+and-24:and
+POS
+and-24:CC
+NER
+and-24:O
+
+
+
+
+combination-25
+Text Annotation
+combination-25:combination
+Lemma Annotation
+combination-25:combination
+POS
+combination-25:NN
+NER
+combination-25:O
+
+
+
+
+therapy-26
+Text Annotation
+therapy-26:therapy
+Lemma Annotation
+therapy-26:therapy
+POS
+therapy-26:NN
+NER
+therapy-26:O
+
+
+
+
+comprising-27
+Text Annotation
+comprising-27:comprising
+Lemma Annotation
+comprising-27:comprise
+POS
+comprising-27:VBG
+NER
+comprising-27:O
+
+
+
+
+a-28
+Text Annotation
+a-28:a
+Lemma Annotation
+a-28:a
+POS
+a-28:DT
+NER
+a-28:O
+
+
+
+
+half-dose-29
+Text Annotation
+half-dose-29:half-dose
+Lemma Annotation
+half-dose-29:half-dose
+POS
+half-dose-29:NN
+NER
+half-dose-29:O
+
+
+
+
+of-30
+Text Annotation
+of-30:of
+Lemma Annotation
+of-30:of
+POS
+of-30:IN
+NER
+of-30:O
+
+
+
+
+budesonide-31
+Text Annotation
+budesonide-31:budesonide
+Lemma Annotation
+budesonide-31:budesonide
+POS
+budesonide-31:NN
+NER
+budesonide-31:O
+
+
+
+
+plus-32
+Text Annotation
+plus-32:plus
+Lemma Annotation
+plus-32:plus
+POS
+plus-32:CC
+NER
+plus-32:O
+
+
+
+
+montelukast-33
+Text Annotation
+montelukast-33:montelukast
+Lemma Annotation
+montelukast-33:montelukast
+POS
+montelukast-33:NN
+NER
+montelukast-33:O
+
+
+
+
+-LRB--34
+Text Annotation
+-LRB--34:-LRB-
+Lemma Annotation
+-LRB--34:-lrb-
+POS
+-LRB--34:-LRB-
+NER
+-LRB--34:O
+
+
+
+
+hBD-35
+Text Annotation
+hBD-35:hBD
+Lemma Annotation
+hBD-35:hbd
+POS
+hBD-35:NN
+NER
+hBD-35:O
+
+
+
+
++-36
+Text Annotation
++-36:+
+Lemma Annotation
++-36:+
+POS
++-36:CC
+NER
++-36:O
+
+
+
+
+MNT-37
+Text Annotation
+MNT-37:MNT
+Lemma Annotation
+MNT-37:mnt
+POS
+MNT-37:NN
+NER
+MNT-37:O
+
+
+
+
+-RRB--38
+Text Annotation
+-RRB--38:-RRB-
+Lemma Annotation
+-RRB--38:-rrb-
+POS
+-RRB--38:-RRB-
+NER
+-RRB--38:O
+
+
+
+
+in-39
+Text Annotation
+in-39:in
+Lemma Annotation
+in-39:in
+POS
+in-39:IN
+NER
+in-39:O
+
+
+
+
+SAR-40
+Text Annotation
+SAR-40:SAR
+Lemma Annotation
+SAR-40:sar
+POS
+SAR-40:NN
+NER
+SAR-40:O
+
+
+
+
+patients-41
+Text Annotation
+patients-41:patients
+Lemma Annotation
+patients-41:patient
+POS
+patients-41:NNS
+NER
+patients-41:O
+
+
+
+
+.-42
+Text Annotation
+.-42:.
+Lemma Annotation
+.-42:.
+POS
+.-42:.
+NER
+.-42:O
+
+
+
+(ROOT (S (NP (PRP We)) (VP (VBD aimed) (S (VP (TO to) (VP (VB compare) (NP (NP (NP (DT the) (NN efficacy)) (CC and) (NP (NP (JJ potential) (NNS mechanisms)) (PP (IN of) (NP (NP (NN budesonide) (JJ nasal) (NN spray)) (PRN (-LRB- -LRB-) (NP (NN BD)) (-RRB- -RRB-)))))) (, ,) (NP (NP (JJ oral) (NN montelukast)) (PRN (-LRB- -LRB-) (NP (NN MNT)) (-RRB- -RRB-))) (, ,) (CC and) (NP (NP (NN combination) (NN therapy)) (VP (VBG comprising) (NP (NP (NP (DT a) (NN half-dose)) (PP (IN of) (NP (NN budesonide)))) (CC plus) (NP (NP (NP (NN montelukast)) (PRN (-LRB- -LRB-) (NP (NP (NN hBD)) (CC +) (NP (NN MNT))) (-RRB- -RRB-))) (PP (IN in) (NP (NN SAR) (NNS patients)))))))))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+The-1
+Text Annotation
+The-1:The
+Lemma Annotation
+The-1:the
+POS
+The-1:DT
+NER
+The-1:O
+
+
+
+
+evidence-2
+Text Annotation
+evidence-2:evidence
+Lemma Annotation
+evidence-2:evidence
+POS
+evidence-2:NN
+NER
+evidence-2:O
+
+
+
+
+supporting-3
+Text Annotation
+supporting-3:supporting
+Lemma Annotation
+supporting-3:support
+POS
+supporting-3:VBG
+NER
+supporting-3:O
+
+
+
+
+the-4
+Text Annotation
+the-4:the
+Lemma Annotation
+the-4:the
+POS
+the-4:DT
+NER
+the-4:O
+
+
+
+
+prophylactic-5
+Text Annotation
+prophylactic-5:prophylactic
+Lemma Annotation
+prophylactic-5:prophylactic
+POS
+prophylactic-5:NN
+NER
+prophylactic-5:O
+
+
+
+
+treatment-6
+Text Annotation
+treatment-6:treatment
+Lemma Annotation
+treatment-6:treatment
+POS
+treatment-6:NN
+NER
+treatment-6:O
+
+
+
+
+of-7
+Text Annotation
+of-7:of
+Lemma Annotation
+of-7:of
+POS
+of-7:IN
+NER
+of-7:O
+
+
+
+
+seasonal-8
+Text Annotation
+seasonal-8:seasonal
+Lemma Annotation
+seasonal-8:seasonal
+POS
+seasonal-8:JJ
+NER
+seasonal-8:O
+
+
+
+
+allergic-9
+Text Annotation
+allergic-9:allergic
+Lemma Annotation
+allergic-9:allergic
+POS
+allergic-9:JJ
+NER
+allergic-9:O
+
+
+
+
+rhinitis-10
+Text Annotation
+rhinitis-10:rhinitis
+Lemma Annotation
+rhinitis-10:rhinitis
+POS
+rhinitis-10:NN
+NER
+rhinitis-10:O
+
+
+
+
+before-11
+Text Annotation
+before-11:before
+Lemma Annotation
+before-11:before
+POS
+before-11:IN
+NER
+before-11:O
+
+
+
+
+the-12
+Text Annotation
+the-12:the
+Lemma Annotation
+the-12:the
+POS
+the-12:DT
+NER
+the-12:O
+
+
+
+
+start-13
+Text Annotation
+start-13:start
+Lemma Annotation
+start-13:start
+POS
+start-13:NN
+NER
+start-13:O
+
+
+
+
+of-14
+Text Annotation
+of-14:of
+Lemma Annotation
+of-14:of
+POS
+of-14:IN
+NER
+of-14:O
+
+
+
+
+pollen-15
+Text Annotation
+pollen-15:pollen
+Lemma Annotation
+pollen-15:pollen
+POS
+pollen-15:NN
+NER
+pollen-15:O
+
+
+
+
+dispersal-16
+Text Annotation
+dispersal-16:dispersal
+Lemma Annotation
+dispersal-16:dispersal
+POS
+dispersal-16:NN
+NER
+dispersal-16:O
+
+
+
+
+is-17
+Text Annotation
+is-17:is
+Lemma Annotation
+is-17:be
+POS
+is-17:VBZ
+NER
+is-17:O
+
+
+
+
+still-18
+Text Annotation
+still-18:still
+Lemma Annotation
+still-18:still
+POS
+still-18:RB
+NER
+still-18:O
+
+
+
+
+lacking-19
+Text Annotation
+lacking-19:lacking
+Lemma Annotation
+lacking-19:lack
+POS
+lacking-19:VBG
+NER
+lacking-19:O
+
+
+
+
+.-20
+Text Annotation
+.-20:.
+Lemma Annotation
+.-20:.
+POS
+.-20:.
+NER
+.-20:O
+
+
+
+(ROOT (S (NP (NP (DT The) (NN evidence)) (VP (VBG supporting) (NP (NP (DT the) (NN prophylactic) (NN treatment)) (PP (IN of) (NP (JJ seasonal) (JJ allergic) (NN rhinitis)))) (PP (IN before) (NP (NP (DT the) (NN start)) (PP (IN of) (NP (NN pollen) (NN dispersal))))))) (VP (VBZ is) (ADVP (RB still)) (VP (VBG lacking))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+We-1
+Text Annotation
+We-1:We
+Lemma Annotation
+We-1:we
+POS
+We-1:PRP
+NER
+We-1:O
+
+
+
+
+conducted-2
+Text Annotation
+conducted-2:conducted
+Lemma Annotation
+conducted-2:conduct
+POS
+conducted-2:VBD
+NER
+conducted-2:O
+
+
+
+
+a-3
+Text Annotation
+a-3:a
+Lemma Annotation
+a-3:a
+POS
+a-3:DT
+NER
+a-3:O
+
+
+
+
+study-4
+Text Annotation
+study-4:study
+Lemma Annotation
+study-4:study
+POS
+study-4:NN
+NER
+study-4:O
+
+
+
+
+to-5
+Text Annotation
+to-5:to
+Lemma Annotation
+to-5:to
+POS
+to-5:TO
+NER
+to-5:O
+
+
+
+
+investigate-6
+Text Annotation
+investigate-6:investigate
+Lemma Annotation
+investigate-6:investigate
+POS
+investigate-6:VB
+NER
+investigate-6:O
+
+
+
+
+the-7
+Text Annotation
+the-7:the
+Lemma Annotation
+the-7:the
+POS
+the-7:DT
+NER
+the-7:O
+
+
+
+
+efficacy-8
+Text Annotation
+efficacy-8:efficacy
+Lemma Annotation
+efficacy-8:efficacy
+POS
+efficacy-8:NN
+NER
+efficacy-8:O
+
+
+
+
+of-9
+Text Annotation
+of-9:of
+Lemma Annotation
+of-9:of
+POS
+of-9:IN
+NER
+of-9:O
+
+
+
+
+prophylaxis-10
+Text Annotation
+prophylaxis-10:prophylaxis
+Lemma Annotation
+prophylaxis-10:prophylaxis
+POS
+prophylaxis-10:NN
+NER
+prophylaxis-10:O
+
+
+
+
+with-11
+Text Annotation
+with-11:with
+Lemma Annotation
+with-11:with
+POS
+with-11:IN
+NER
+with-11:O
+
+
+
+
+montelukast-12
+Text Annotation
+montelukast-12:montelukast
+Lemma Annotation
+montelukast-12:montelukast
+POS
+montelukast-12:NN
+NER
+montelukast-12:O
+
+
+
+
+for-13
+Text Annotation
+for-13:for
+Lemma Annotation
+for-13:for
+POS
+for-13:IN
+NER
+for-13:O
+
+
+
+
+seasonal-14
+Text Annotation
+seasonal-14:seasonal
+Lemma Annotation
+seasonal-14:seasonal
+POS
+seasonal-14:JJ
+NER
+seasonal-14:O
+
+
+
+
+allergic-15
+Text Annotation
+allergic-15:allergic
+Lemma Annotation
+allergic-15:allergic
+POS
+allergic-15:JJ
+NER
+allergic-15:O
+
+
+
+
+rhinitis-16
+Text Annotation
+rhinitis-16:rhinitis
+Lemma Annotation
+rhinitis-16:rhinitis
+POS
+rhinitis-16:NN
+NER
+rhinitis-16:O
+
+
+
+
+and-17
+Text Annotation
+and-17:and
+Lemma Annotation
+and-17:and
+POS
+and-17:CC
+NER
+and-17:O
+
+
+
+
+to-18
+Text Annotation
+to-18:to
+Lemma Annotation
+to-18:to
+POS
+to-18:TO
+NER
+to-18:O
+
+
+
+
+evaluate-19
+Text Annotation
+evaluate-19:evaluate
+Lemma Annotation
+evaluate-19:evaluate
+POS
+evaluate-19:VB
+NER
+evaluate-19:O
+
+
+
+
+its-20
+Text Annotation
+its-20:its
+Lemma Annotation
+its-20:its
+POS
+its-20:PRP$
+NER
+its-20:O
+
+
+
+
+influence-21
+Text Annotation
+influence-21:influence
+Lemma Annotation
+influence-21:influence
+POS
+influence-21:NN
+NER
+influence-21:O
+
+
+
+
+on-22
+Text Annotation
+on-22:on
+Lemma Annotation
+on-22:on
+POS
+on-22:IN
+NER
+on-22:O
+
+
+
+
+the-23
+Text Annotation
+the-23:the
+Lemma Annotation
+the-23:the
+POS
+the-23:DT
+NER
+the-23:O
+
+
+
+
+inflammatory-24
+Text Annotation
+inflammatory-24:inflammatory
+Lemma Annotation
+inflammatory-24:inflammatory
+POS
+inflammatory-24:JJ
+NER
+inflammatory-24:O
+
+
+
+
+condition-25
+Text Annotation
+condition-25:condition
+Lemma Annotation
+condition-25:condition
+POS
+condition-25:NN
+NER
+condition-25:O
+
+
+
+
+of-26
+Text Annotation
+of-26:of
+Lemma Annotation
+of-26:of
+POS
+of-26:IN
+NER
+of-26:O
+
+
+
+
+the-27
+Text Annotation
+the-27:the
+Lemma Annotation
+the-27:the
+POS
+the-27:DT
+NER
+the-27:O
+
+
+
+
+lower-28
+Text Annotation
+lower-28:lower
+Lemma Annotation
+lower-28:lower
+POS
+lower-28:JJR
+NER
+lower-28:O
+
+
+
+
+airway-29
+Text Annotation
+airway-29:airway
+Lemma Annotation
+airway-29:airway
+POS
+airway-29:NN
+NER
+airway-29:O
+
+
+
+
+.-30
+Text Annotation
+.-30:.
+Lemma Annotation
+.-30:.
+POS
+.-30:.
+NER
+.-30:O
+
+
+
+(ROOT (S (NP (PRP We)) (VP (VBD conducted) (NP (DT a) (NN study) (S (VP (VP (TO to) (VP (VB investigate) (NP (NP (DT the) (NN efficacy)) (PP (IN of) (NP (NN prophylaxis)))) (PP (IN with) (NP (NP (NN montelukast)) (PP (IN for) (NP (JJ seasonal) (JJ allergic) (NN rhinitis))))))) (CC and) (VP (TO to) (VP (VB evaluate) (NP (PRP$ its) (NN influence)) (PP (IN on) (NP (NP (DT the) (JJ inflammatory) (NN condition)) (PP (IN of) (NP (DT the) (JJR lower) (NN airway))))))))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+Our-1
+Text Annotation
+Our-1:Our
+Lemma Annotation
+Our-1:we
+POS
+Our-1:PRP$
+NER
+Our-1:O
+
+
+
+
+final-2
+Text Annotation
+final-2:final
+Lemma Annotation
+final-2:final
+POS
+final-2:JJ
+NER
+final-2:O
+
+
+
+
+study-3
+Text Annotation
+study-3:study
+Lemma Annotation
+study-3:study
+POS
+study-3:NN
+NER
+study-3:O
+
+
+
+
+population-4
+Text Annotation
+population-4:population
+Lemma Annotation
+population-4:population
+POS
+population-4:NN
+NER
+population-4:O
+
+
+
+
+was-5
+Text Annotation
+was-5:was
+Lemma Annotation
+was-5:be
+POS
+was-5:VBD
+NER
+was-5:O
+
+
+
+
+made-6
+Text Annotation
+made-6:made
+Lemma Annotation
+made-6:make
+POS
+made-6:VBN
+NER
+made-6:O
+
+
+
+
+up-7
+Text Annotation
+up-7:up
+Lemma Annotation
+up-7:up
+POS
+up-7:IN
+NER
+up-7:O
+
+
+
+
+of-8
+Text Annotation
+of-8:of
+Lemma Annotation
+of-8:of
+POS
+of-8:IN
+NER
+of-8:O
+
+
+
+
+57-9
+Text Annotation
+57-9:57
+Lemma Annotation
+57-9:57
+POS
+57-9:CD
+NER
+57-9:NUMBER
+
+
+
+
+adults-10
+Text Annotation
+adults-10:adults
+Lemma Annotation
+adults-10:adult
+POS
+adults-10:NNS
+NER
+adults-10:O
+
+
+
+
+who-11
+Text Annotation
+who-11:who
+Lemma Annotation
+who-11:who
+POS
+who-11:WP
+NER
+who-11:O
+
+
+
+
+were-12
+Text Annotation
+were-12:were
+Lemma Annotation
+were-12:be
+POS
+were-12:VBD
+NER
+were-12:O
+
+
+
+
+randomized-13
+Text Annotation
+randomized-13:randomized
+Lemma Annotation
+randomized-13:randomize
+POS
+randomized-13:VBN
+NER
+randomized-13:O
+
+
+
+
+to-14
+Text Annotation
+to-14:to
+Lemma Annotation
+to-14:to
+POS
+to-14:TO
+NER
+to-14:O
+
+
+
+
+a-15
+Text Annotation
+a-15:a
+Lemma Annotation
+a-15:a
+POS
+a-15:DT
+NER
+a-15:O
+
+
+
+
+prophylactic-16
+Text Annotation
+prophylactic-16:prophylactic
+Lemma Annotation
+prophylactic-16:prophylactic
+POS
+prophylactic-16:NN
+NER
+prophylactic-16:O
+
+
+
+
+treatment-17
+Text Annotation
+treatment-17:treatment
+Lemma Annotation
+treatment-17:treatment
+POS
+treatment-17:NN
+NER
+treatment-17:O
+
+
+
+
+group-18
+Text Annotation
+group-18:group
+Lemma Annotation
+group-18:group
+POS
+group-18:NN
+NER
+group-18:O
+
+
+
+
+and-19
+Text Annotation
+and-19:and
+Lemma Annotation
+and-19:and
+POS
+and-19:CC
+NER
+and-19:O
+
+
+
+
+a-20
+Text Annotation
+a-20:a
+Lemma Annotation
+a-20:a
+POS
+a-20:DT
+NER
+a-20:O
+
+
+
+
+control-21
+Text Annotation
+control-21:control
+Lemma Annotation
+control-21:control
+POS
+control-21:NN
+NER
+control-21:O
+
+
+
+
+group-22
+Text Annotation
+group-22:group
+Lemma Annotation
+group-22:group
+POS
+group-22:NN
+NER
+group-22:O
+
+
+
+
+.-23
+Text Annotation
+.-23:.
+Lemma Annotation
+.-23:.
+POS
+.-23:.
+NER
+.-23:O
+
+
+
+(ROOT (S (NP (PRP$ Our) (JJ final) (NN study) (NN population)) (VP (VBD was) (VP (VBN made) (PRT (IN up)) (PP (IN of) (NP (NP (CD 57) (NNS adults)) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN randomized) (PP (TO to) (NP (NP (DT a) (NN prophylactic) (NN treatment) (NN group)) (CC and) (NP (DT a) (NN control) (NN group)))))))))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+The-1
+Text Annotation
+The-1:The
+Lemma Annotation
+The-1:the
+POS
+The-1:DT
+NER
+The-1:O
+
+
+
+
+prophylaxis-2
+Text Annotation
+prophylaxis-2:prophylaxis
+Lemma Annotation
+prophylaxis-2:prophylaxis
+POS
+prophylaxis-2:NN
+NER
+prophylaxis-2:O
+
+
+
+
+group-3
+Text Annotation
+group-3:group
+Lemma Annotation
+group-3:group
+POS
+group-3:NN
+NER
+group-3:O
+
+
+
+
+was-4
+Text Annotation
+was-4:was
+Lemma Annotation
+was-4:be
+POS
+was-4:VBD
+NER
+was-4:O
+
+
+
+
+made-5
+Text Annotation
+made-5:made
+Lemma Annotation
+made-5:make
+POS
+made-5:VBN
+NER
+made-5:O
+
+
+
+
+up-6
+Text Annotation
+up-6:up
+Lemma Annotation
+up-6:up
+POS
+up-6:IN
+NER
+up-6:O
+
+
+
+
+of-7
+Text Annotation
+of-7:of
+Lemma Annotation
+of-7:of
+POS
+of-7:IN
+NER
+of-7:O
+
+
+
+
+31-8
+Text Annotation
+31-8:31
+Lemma Annotation
+31-8:31
+POS
+31-8:CD
+NER
+31-8:NUMBER
+
+
+
+
+patients-10-9
+Text Annotation
+patients-10-9:patients-10
+Lemma Annotation
+patients-10-9:patients-10
+POS
+patients-10-9:NN
+NER
+patients-10-9:O
+
+
+
+
+men-10
+Text Annotation
+men-10:men
+Lemma Annotation
+men-10:man
+POS
+men-10:NNS
+NER
+men-10:O
+
+
+
+
+and-11
+Text Annotation
+and-11:and
+Lemma Annotation
+and-11:and
+POS
+and-11:CC
+NER
+and-11:O
+
+
+
+
+21-12
+Text Annotation
+21-12:21
+Lemma Annotation
+21-12:21
+POS
+21-12:CD
+NER
+21-12:NUMBER
+
+
+
+
+women-13
+Text Annotation
+women-13:women
+Lemma Annotation
+women-13:woman
+POS
+women-13:NNS
+NER
+women-13:O
+
+
+
+
+,-14
+Text Annotation
+,-14:,
+Lemma Annotation
+,-14:,
+POS
+,-14:,
+NER
+,-14:O
+
+
+
+
+aged-15
+Text Annotation
+aged-15:aged
+Lemma Annotation
+aged-15:age
+POS
+aged-15:VBN
+NER
+aged-15:O
+
+
+
+
+18-16
+Text Annotation
+18-16:18
+Lemma Annotation
+18-16:18
+POS
+18-16:CD
+NER
+18-16:DURATION
+
+
+
+
+to-17
+Text Annotation
+to-17:to
+Lemma Annotation
+to-17:to
+POS
+to-17:TO
+NER
+to-17:DURATION
+
+
+
+
+54-18
+Text Annotation
+54-18:54
+Lemma Annotation
+54-18:54
+POS
+54-18:CD
+NER
+54-18:DURATION
+
+
+
+
+years-19
+Text Annotation
+years-19:years
+Lemma Annotation
+years-19:year
+POS
+years-19:NNS
+NER
+years-19:DURATION
+
+
+
+
+-LRB--20
+Text Annotation
+-LRB--20:-LRB-
+Lemma Annotation
+-LRB--20:-lrb-
+POS
+-LRB--20:-LRB-
+NER
+-LRB--20:O
+
+
+
+
+mean-21
+Text Annotation
+mean-21:mean
+Lemma Annotation
+mean-21:mean
+POS
+mean-21:NN
+NER
+mean-21:O
+
+
+
+
+:-22
+Text Annotation
+:-22::
+Lemma Annotation
+:-22::
+POS
+:-22::
+NER
+:-22:O
+
+
+
+
+36.9-23
+Text Annotation
+36.9-23:36.9
+Lemma Annotation
+36.9-23:36.9
+POS
+36.9-23:CD
+NER
+36.9-23:NUMBER
+
+
+
+
+-RRB--24
+Text Annotation
+-RRB--24:-RRB-
+Lemma Annotation
+-RRB--24:-rrb-
+POS
+-RRB--24:-RRB-
+NER
+-RRB--24:O
+
+
+
+
+--25
+Text Annotation
+--25:-
+Lemma Annotation
+--25:-
+POS
+--25::
+NER
+--25:O
+
+
+
+
+who-26
+Text Annotation
+who-26:who
+Lemma Annotation
+who-26:who
+POS
+who-26:WP
+NER
+who-26:O
+
+
+
+
+were-27
+Text Annotation
+were-27:were
+Lemma Annotation
+were-27:be
+POS
+were-27:VBD
+NER
+were-27:O
+
+
+
+
+administered-28
+Text Annotation
+administered-28:administered
+Lemma Annotation
+administered-28:administer
+POS
+administered-28:VBN
+NER
+administered-28:O
+
+
+
+
+montelukast-29
+Text Annotation
+montelukast-29:montelukast
+Lemma Annotation
+montelukast-29:montelukast
+POS
+montelukast-29:NN
+NER
+montelukast-29:O
+
+
+
+
+for-30
+Text Annotation
+for-30:for
+Lemma Annotation
+for-30:for
+POS
+for-30:IN
+NER
+for-30:O
+
+
+
+
+2-31
+Text Annotation
+2-31:2
+Lemma Annotation
+2-31:2
+POS
+2-31:CD
+NER
+2-31:DURATION
+
+
+
+
+weeks-32
+Text Annotation
+weeks-32:weeks
+Lemma Annotation
+weeks-32:week
+POS
+weeks-32:NNS
+NER
+weeks-32:DURATION
+
+
+
+
+before-33
+Text Annotation
+before-33:before
+Lemma Annotation
+before-33:before
+POS
+before-33:IN
+NER
+before-33:O
+
+
+
+
+the-34
+Text Annotation
+the-34:the
+Lemma Annotation
+the-34:the
+POS
+the-34:DT
+NER
+the-34:O
+
+
+
+
+cypress-35
+Text Annotation
+cypress-35:cypress
+Lemma Annotation
+cypress-35:cypress
+POS
+cypress-35:NN
+NER
+cypress-35:O
+
+
+
+
+pollen-36
+Text Annotation
+pollen-36:pollen
+Lemma Annotation
+pollen-36:pollen
+POS
+pollen-36:NN
+NER
+pollen-36:O
+
+
+
+
+season-37
+Text Annotation
+season-37:season
+Lemma Annotation
+season-37:season
+POS
+season-37:NN
+NER
+season-37:O
+
+
+
+
+and-38
+Text Annotation
+and-38:and
+Lemma Annotation
+and-38:and
+POS
+and-38:CC
+NER
+and-38:O
+
+
+
+
+subsequently-39
+Text Annotation
+subsequently-39:subsequently
+Lemma Annotation
+subsequently-39:subsequently
+POS
+subsequently-39:RB
+NER
+subsequently-39:O
+
+
+
+
+throughout-40
+Text Annotation
+throughout-40:throughout
+Lemma Annotation
+throughout-40:throughout
+POS
+throughout-40:IN
+NER
+throughout-40:O
+
+
+
+
+the-41
+Text Annotation
+the-41:the
+Lemma Annotation
+the-41:the
+POS
+the-41:DT
+NER
+the-41:O
+
+
+
+
+remainder-42
+Text Annotation
+remainder-42:remainder
+Lemma Annotation
+remainder-42:remainder
+POS
+remainder-42:NN
+NER
+remainder-42:O
+
+
+
+
+of-43
+Text Annotation
+of-43:of
+Lemma Annotation
+of-43:of
+POS
+of-43:IN
+NER
+of-43:O
+
+
+
+
+the-44
+Text Annotation
+the-44:the
+Lemma Annotation
+the-44:the
+POS
+the-44:DT
+NER
+the-44:O
+
+
+
+
+season-45
+Text Annotation
+season-45:season
+Lemma Annotation
+season-45:season
+POS
+season-45:NN
+NER
+season-45:O
+
+
+
+
+.-46
+Text Annotation
+.-46:.
+Lemma Annotation
+.-46:.
+POS
+.-46:.
+NER
+.-46:O
+
+
+
+(ROOT (S (NP (DT The) (NN prophylaxis) (NN group)) (VP (VBD was) (VP (VP (VBN made) (PRT (IN up)) (PP (IN of) (NP (NP (CD 31) (NN patients-10) (NNS men)) (CC and) (NP (CD 21) (NNS women))))) (, ,) (VP (VBN aged) (NP (NP (NP (QP (CD 18) (TO to) (CD 54)) (NNS years)) (PRN (-LRB- -LRB-) (NP (NP (NN mean)) (: :) (NP (CD 36.9))) (-RRB- -RRB-))) (: -) (SBAR (WHNP (WP who)) (S (VP (VBD were) (VP (VBN administered) (NP (NP (NN montelukast)) (PP (IN for) (NP (CD 2) (NNS weeks)))) (PP (IN before) (NP (DT the) (NN cypress) (NN pollen) (NN season))))))))) (CC and) (VP (ADVP (RB subsequently)) (PP (IN throughout) (NP (NP (DT the) (NN remainder)) (PP (IN of) (NP (DT the) (NN season)))))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+The-1
+Text Annotation
+The-1:The
+Lemma Annotation
+The-1:the
+POS
+The-1:DT
+NER
+The-1:O
+
+
+
+
+control-2
+Text Annotation
+control-2:control
+Lemma Annotation
+control-2:control
+POS
+control-2:NN
+NER
+control-2:O
+
+
+
+
+group-3
+Text Annotation
+group-3:group
+Lemma Annotation
+group-3:group
+POS
+group-3:NN
+NER
+group-3:O
+
+
+
+
+was-4
+Text Annotation
+was-4:was
+Lemma Annotation
+was-4:be
+POS
+was-4:VBD
+NER
+was-4:O
+
+
+
+
+made-5
+Text Annotation
+made-5:made
+Lemma Annotation
+made-5:make
+POS
+made-5:VBN
+NER
+made-5:O
+
+
+
+
+up-6
+Text Annotation
+up-6:up
+Lemma Annotation
+up-6:up
+POS
+up-6:IN
+NER
+up-6:O
+
+
+
+
+of-7
+Text Annotation
+of-7:of
+Lemma Annotation
+of-7:of
+POS
+of-7:IN
+NER
+of-7:O
+
+
+
+
+26-8
+Text Annotation
+26-8:26
+Lemma Annotation
+26-8:26
+POS
+26-8:CD
+NER
+26-8:NUMBER
+
+
+
+
+patients-11-9
+Text Annotation
+patients-11-9:patients-11
+Lemma Annotation
+patients-11-9:patients-11
+POS
+patients-11-9:NN
+NER
+patients-11-9:O
+
+
+
+
+men-10
+Text Annotation
+men-10:men
+Lemma Annotation
+men-10:man
+POS
+men-10:NNS
+NER
+men-10:O
+
+
+
+
+and-11
+Text Annotation
+and-11:and
+Lemma Annotation
+and-11:and
+POS
+and-11:CC
+NER
+and-11:O
+
+
+
+
+15-12
+Text Annotation
+15-12:15
+Lemma Annotation
+15-12:15
+POS
+15-12:CD
+NER
+15-12:NUMBER
+
+
+
+
+women-13
+Text Annotation
+women-13:women
+Lemma Annotation
+women-13:woman
+POS
+women-13:NNS
+NER
+women-13:O
+
+
+
+
+,-14
+Text Annotation
+,-14:,
+Lemma Annotation
+,-14:,
+POS
+,-14:,
+NER
+,-14:O
+
+
+
+
+aged-15
+Text Annotation
+aged-15:aged
+Lemma Annotation
+aged-15:aged
+POS
+aged-15:JJ
+NER
+aged-15:O
+
+
+
+
+24-16
+Text Annotation
+24-16:24
+Lemma Annotation
+24-16:24
+POS
+24-16:CD
+NER
+24-16:DURATION
+
+
+
+
+to-17
+Text Annotation
+to-17:to
+Lemma Annotation
+to-17:to
+POS
+to-17:TO
+NER
+to-17:DURATION
+
+
+
+
+63-18
+Text Annotation
+63-18:63
+Lemma Annotation
+63-18:63
+POS
+63-18:CD
+NER
+63-18:DURATION
+
+
+
+
+years-19
+Text Annotation
+years-19:years
+Lemma Annotation
+years-19:year
+POS
+years-19:NNS
+NER
+years-19:DURATION
+
+
+
+
+-LRB--20
+Text Annotation
+-LRB--20:-LRB-
+Lemma Annotation
+-LRB--20:-lrb-
+POS
+-LRB--20:-LRB-
+NER
+-LRB--20:O
+
+
+
+
+mean-21
+Text Annotation
+mean-21:mean
+Lemma Annotation
+mean-21:mean
+POS
+mean-21:NN
+NER
+mean-21:O
+
+
+
+
+:-22
+Text Annotation
+:-22::
+Lemma Annotation
+:-22::
+POS
+:-22::
+NER
+:-22:O
+
+
+
+
+39.2-23
+Text Annotation
+39.2-23:39.2
+Lemma Annotation
+39.2-23:39.2
+POS
+39.2-23:CD
+NER
+39.2-23:NUMBER
+
+
+
+
+-RRB--24
+Text Annotation
+-RRB--24:-RRB-
+Lemma Annotation
+-RRB--24:-rrb-
+POS
+-RRB--24:-RRB-
+NER
+-RRB--24:O
+
+
+
+
+--25
+Text Annotation
+--25:-
+Lemma Annotation
+--25:-
+POS
+--25::
+NER
+--25:O
+
+
+
+
+who-26
+Text Annotation
+who-26:who
+Lemma Annotation
+who-26:who
+POS
+who-26:WP
+NER
+who-26:O
+
+
+
+
+took-27
+Text Annotation
+took-27:took
+Lemma Annotation
+took-27:take
+POS
+took-27:VBD
+NER
+took-27:O
+
+
+
+
+montelukast-28
+Text Annotation
+montelukast-28:montelukast
+Lemma Annotation
+montelukast-28:montelukast
+POS
+montelukast-28:NN
+NER
+montelukast-28:O
+
+
+
+
+during-29
+Text Annotation
+during-29:during
+Lemma Annotation
+during-29:during
+POS
+during-29:IN
+NER
+during-29:O
+
+
+
+
+the-30
+Text Annotation
+the-30:the
+Lemma Annotation
+the-30:the
+POS
+the-30:DT
+NER
+the-30:O
+
+
+
+
+pollen-31
+Text Annotation
+pollen-31:pollen
+Lemma Annotation
+pollen-31:pollen
+POS
+pollen-31:NN
+NER
+pollen-31:O
+
+
+
+
+season-32
+Text Annotation
+season-32:season
+Lemma Annotation
+season-32:season
+POS
+season-32:NN
+NER
+season-32:O
+
+
+
+
+only-33
+Text Annotation
+only-33:only
+Lemma Annotation
+only-33:only
+POS
+only-33:RB
+NER
+only-33:O
+
+
+
+
+.-34
+Text Annotation
+.-34:.
+Lemma Annotation
+.-34:.
+POS
+.-34:.
+NER
+.-34:O
+
+
+
+(ROOT (S (NP (DT The) (NN control) (NN group)) (VP (VBD was) (VP (VBN made) (ADVP (IN up) (PP (IN of) (NP (NP (CD 26) (NN patients-11) (NNS men)) (CC and) (NP (CD 15) (NNS women))))) (, ,) (ADVP (JJ aged) (NP (CD 24)) (PP (TO to) (NP (NP (CD 63) (NNS years)) (PRN (-LRB- -LRB-) (NP (NP (NN mean)) (: :) (NP (CD 39.2))) (-RRB- -RRB-)) (: -) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NN montelukast)) (PP (IN during) (NP (DT the) (NN pollen) (NN season))) (ADVP (RB only)))))))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+During-1
+Text Annotation
+During-1:During
+Lemma Annotation
+During-1:during
+POS
+During-1:IN
+NER
+During-1:O
+
+
+
+
+the-2
+Text Annotation
+the-2:the
+Lemma Annotation
+the-2:the
+POS
+the-2:DT
+NER
+the-2:O
+
+
+
+
+pollen-3
+Text Annotation
+pollen-3:pollen
+Lemma Annotation
+pollen-3:pollen
+POS
+pollen-3:NN
+NER
+pollen-3:O
+
+
+
+
+season-4
+Text Annotation
+season-4:season
+Lemma Annotation
+season-4:season
+POS
+season-4:NN
+NER
+season-4:O
+
+
+
+
+,-5
+Text Annotation
+,-5:,
+Lemma Annotation
+,-5:,
+POS
+,-5:,
+NER
+,-5:O
+
+
+
+
+the-6
+Text Annotation
+the-6:the
+Lemma Annotation
+the-6:the
+POS
+the-6:DT
+NER
+the-6:O
+
+
+
+
+mean-7
+Text Annotation
+mean-7:mean
+Lemma Annotation
+mean-7:mean
+POS
+mean-7:JJ
+NER
+mean-7:O
+
+
+
+
+daily-8
+Text Annotation
+daily-8:daily
+Lemma Annotation
+daily-8:daily
+POS
+daily-8:JJ
+NER
+daily-8:SET
+
+
+
+
+rescue-9
+Text Annotation
+rescue-9:rescue
+Lemma Annotation
+rescue-9:rescue
+POS
+rescue-9:NN
+NER
+rescue-9:O
+
+
+
+
+medication-10
+Text Annotation
+medication-10:medication
+Lemma Annotation
+medication-10:medication
+POS
+medication-10:NN
+NER
+medication-10:O
+
+
+
+
+score-11
+Text Annotation
+score-11:score
+Lemma Annotation
+score-11:score
+POS
+score-11:NN
+NER
+score-11:O
+
+
+
+
+was-12
+Text Annotation
+was-12:was
+Lemma Annotation
+was-12:be
+POS
+was-12:VBD
+NER
+was-12:O
+
+
+
+
+significantly-13
+Text Annotation
+significantly-13:significantly
+Lemma Annotation
+significantly-13:significantly
+POS
+significantly-13:RB
+NER
+significantly-13:O
+
+
+
+
+lower-14
+Text Annotation
+lower-14:lower
+Lemma Annotation
+lower-14:lower
+POS
+lower-14:JJR
+NER
+lower-14:O
+
+
+
+
+in-15
+Text Annotation
+in-15:in
+Lemma Annotation
+in-15:in
+POS
+in-15:IN
+NER
+in-15:O
+
+
+
+
+the-16
+Text Annotation
+the-16:the
+Lemma Annotation
+the-16:the
+POS
+the-16:DT
+NER
+the-16:O
+
+
+
+
+prophylaxis-17
+Text Annotation
+prophylaxis-17:prophylaxis
+Lemma Annotation
+prophylaxis-17:prophylaxis
+POS
+prophylaxis-17:NN
+NER
+prophylaxis-17:O
+
+
+
+
+group-18
+Text Annotation
+group-18:group
+Lemma Annotation
+group-18:group
+POS
+group-18:NN
+NER
+group-18:O
+
+
+
+
+-LRB--19
+Text Annotation
+-LRB--19:-LRB-
+Lemma Annotation
+-LRB--19:-lrb-
+POS
+-LRB--19:-LRB-
+NER
+-LRB--19:O
+
+
+
+
+3.22-20
+Text Annotation
+3.22-20:3.22
+Lemma Annotation
+3.22-20:3.22
+POS
+3.22-20:CD
+NER
+3.22-20:NUMBER
+
+
+
+
+vs.-21
+Text Annotation
+vs.-21:vs.
+Lemma Annotation
+vs.-21:vs.
+POS
+vs.-21:CC
+NER
+vs.-21:O
+
+
+
+
+3.89-22
+Text Annotation
+3.89-22:3.89
+Lemma Annotation
+3.89-22:3.89
+POS
+3.89-22:CD
+NER
+3.89-22:NUMBER
+
+
+
+
+;-23
+Text Annotation
+;-23:;
+Lemma Annotation
+;-23:;
+POS
+;-23::
+NER
+;-23:O
+
+
+
+
+p-24
+Text Annotation
+p-24:p
+Lemma Annotation
+p-24:p
+POS
+p-24:NN
+NER
+p-24:O
+
+
+
+
+=-25
+Text Annotation
+=-25:=
+Lemma Annotation
+=-25:=
+POS
+=-25:JJ
+NER
+=-25:O
+
+
+
+
+0.001-26
+Text Annotation
+0.001-26:0.001
+Lemma Annotation
+0.001-26:0.001
+POS
+0.001-26:CD
+NER
+0.001-26:NUMBER
+
+
+
+
+-RRB--27
+Text Annotation
+-RRB--27:-RRB-
+Lemma Annotation
+-RRB--27:-rrb-
+POS
+-RRB--27:-RRB-
+NER
+-RRB--27:O
+
+
+
+
+.-28
+Text Annotation
+.-28:.
+Lemma Annotation
+.-28:.
+POS
+.-28:.
+NER
+.-28:O
+
+
+
+(ROOT (S (PP (IN During) (NP (DT the) (NN pollen) (NN season))) (, ,) (NP (DT the) (JJ mean) (JJ daily) (NN rescue) (NN medication) (NN score)) (VP (VBD was) (ADJP (RB significantly) (JJR lower)) (PP (IN in) (NP (NP (DT the) (NN prophylaxis) (NN group)) (PRN (-LRB- -LRB-) (NP (NP (CD 3.22)) (PP (CC vs.) (NP (NP (CD 3.89)) (: ;) (NP (NN p)))) (ADJP (JJ =) (NP-TMP (CD 0.001)))) (-RRB- -RRB-))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+However-1
+Text Annotation
+However-1:However
+Lemma Annotation
+However-1:however
+POS
+However-1:RB
+NER
+However-1:O
+
+
+
+
+,-2
+Text Annotation
+,-2:,
+Lemma Annotation
+,-2:,
+POS
+,-2:,
+NER
+,-2:O
+
+
+
+
+there-3
+Text Annotation
+there-3:there
+Lemma Annotation
+there-3:there
+POS
+there-3:EX
+NER
+there-3:O
+
+
+
+
+was-4
+Text Annotation
+was-4:was
+Lemma Annotation
+was-4:be
+POS
+was-4:VBD
+NER
+was-4:O
+
+
+
+
+no-5
+Text Annotation
+no-5:no
+Lemma Annotation
+no-5:no
+POS
+no-5:DT
+NER
+no-5:O
+
+
+
+
+statistical-6
+Text Annotation
+statistical-6:statistical
+Lemma Annotation
+statistical-6:statistical
+POS
+statistical-6:JJ
+NER
+statistical-6:O
+
+
+
+
+difference-7
+Text Annotation
+difference-7:difference
+Lemma Annotation
+difference-7:difference
+POS
+difference-7:NN
+NER
+difference-7:O
+
+
+
+
+in-8
+Text Annotation
+in-8:in
+Lemma Annotation
+in-8:in
+POS
+in-8:IN
+NER
+in-8:O
+
+
+
+
+the-9
+Text Annotation
+the-9:the
+Lemma Annotation
+the-9:the
+POS
+the-9:DT
+NER
+the-9:O
+
+
+
+
+two-10
+Text Annotation
+two-10:two
+Lemma Annotation
+two-10:two
+POS
+two-10:CD
+NER
+two-10:NUMBER
+
+
+
+
+groups-11
+Text Annotation
+groups-11:groups
+Lemma Annotation
+groups-11:group
+POS
+groups-11:NNS
+NER
+groups-11:O
+
+
+
+
+'-12
+Text Annotation
+'-12:'
+Lemma Annotation
+'-12:'
+POS
+'-12:POS
+NER
+'-12:O
+
+
+
+
+mean-13
+Text Annotation
+mean-13:mean
+Lemma Annotation
+mean-13:mean
+POS
+mean-13:JJ
+NER
+mean-13:O
+
+
+
+
+daily-14
+Text Annotation
+daily-14:daily
+Lemma Annotation
+daily-14:daily
+POS
+daily-14:JJ
+NER
+daily-14:SET
+
+
+
+
+rhinoconjunctivitis-15
+Text Annotation
+rhinoconjunctivitis-15:rhinoconjunctivitis
+Lemma Annotation
+rhinoconjunctivitis-15:rhinoconjunctivitis
+POS
+rhinoconjunctivitis-15:NN
+NER
+rhinoconjunctivitis-15:O
+
+
+
+
+symptom-16
+Text Annotation
+symptom-16:symptom
+Lemma Annotation
+symptom-16:symptom
+POS
+symptom-16:NN
+NER
+symptom-16:O
+
+
+
+
+scores-17
+Text Annotation
+scores-17:scores
+Lemma Annotation
+scores-17:score
+POS
+scores-17:NNS
+NER
+scores-17:O
+
+
+
+
+.-18
+Text Annotation
+.-18:.
+Lemma Annotation
+.-18:.
+POS
+.-18:.
+NER
+.-18:O
+
+
+
+(ROOT (S (ADVP (RB However)) (, ,) (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (JJ statistical) (NN difference)) (PP (IN in) (NP (NP (DT the) (CD two) (NNS groups) (POS ')) (JJ mean) (JJ daily) (NN rhinoconjunctivitis) (NN symptom) (NNS scores))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+Also-1
+Text Annotation
+Also-1:Also
+Lemma Annotation
+Also-1:also
+POS
+Also-1:RB
+NER
+Also-1:O
+
+
+
+
+,-2
+Text Annotation
+,-2:,
+Lemma Annotation
+,-2:,
+POS
+,-2:,
+NER
+,-2:O
+
+
+
+
+the-3
+Text Annotation
+the-3:the
+Lemma Annotation
+the-3:the
+POS
+the-3:DT
+NER
+the-3:O
+
+
+
+
+fraction-4
+Text Annotation
+fraction-4:fraction
+Lemma Annotation
+fraction-4:fraction
+POS
+fraction-4:NN
+NER
+fraction-4:O
+
+
+
+
+of-5
+Text Annotation
+of-5:of
+Lemma Annotation
+of-5:of
+POS
+of-5:IN
+NER
+of-5:O
+
+
+
+
+exhaled-6
+Text Annotation
+exhaled-6:exhaled
+Lemma Annotation
+exhaled-6:exhale
+POS
+exhaled-6:VBN
+NER
+exhaled-6:O
+
+
+
+
+nitric-7
+Text Annotation
+nitric-7:nitric
+Lemma Annotation
+nitric-7:nitric
+POS
+nitric-7:JJ
+NER
+nitric-7:O
+
+
+
+
+oxide-8
+Text Annotation
+oxide-8:oxide
+Lemma Annotation
+oxide-8:oxide
+POS
+oxide-8:NN
+NER
+oxide-8:O
+
+
+
+
+in-9
+Text Annotation
+in-9:in
+Lemma Annotation
+in-9:in
+POS
+in-9:IN
+NER
+in-9:O
+
+
+
+
+the-10
+Text Annotation
+the-10:the
+Lemma Annotation
+the-10:the
+POS
+the-10:DT
+NER
+the-10:O
+
+
+
+
+prophylaxis-11
+Text Annotation
+prophylaxis-11:prophylaxis
+Lemma Annotation
+prophylaxis-11:prophylaxis
+POS
+prophylaxis-11:NN
+NER
+prophylaxis-11:O
+
+
+
+
+group-12
+Text Annotation
+group-12:group
+Lemma Annotation
+group-12:group
+POS
+group-12:NN
+NER
+group-12:O
+
+
+
+
+tended-13
+Text Annotation
+tended-13:tended
+Lemma Annotation
+tended-13:tend
+POS
+tended-13:VBD
+NER
+tended-13:O
+
+
+
+
+to-14
+Text Annotation
+to-14:to
+Lemma Annotation
+to-14:to
+POS
+to-14:TO
+NER
+to-14:O
+
+
+
+
+be-15
+Text Annotation
+be-15:be
+Lemma Annotation
+be-15:be
+POS
+be-15:VB
+NER
+be-15:O
+
+
+
+
+lower-16
+Text Annotation
+lower-16:lower
+Lemma Annotation
+lower-16:lower
+POS
+lower-16:JJR
+NER
+lower-16:O
+
+
+
+
+than-17
+Text Annotation
+than-17:than
+Lemma Annotation
+than-17:than
+POS
+than-17:IN
+NER
+than-17:O
+
+
+
+
+that-18
+Text Annotation
+that-18:that
+Lemma Annotation
+that-18:that
+POS
+that-18:DT
+NER
+that-18:O
+
+
+
+
+of-19
+Text Annotation
+of-19:of
+Lemma Annotation
+of-19:of
+POS
+of-19:IN
+NER
+of-19:O
+
+
+
+
+control-20
+Text Annotation
+control-20:control
+Lemma Annotation
+control-20:control
+POS
+control-20:NN
+NER
+control-20:O
+
+
+
+
+group-21
+Text Annotation
+group-21:group
+Lemma Annotation
+group-21:group
+POS
+group-21:NN
+NER
+group-21:O
+
+
+
+
+,-22
+Text Annotation
+,-22:,
+Lemma Annotation
+,-22:,
+POS
+,-22:,
+NER
+,-22:O
+
+
+
+
+but-23
+Text Annotation
+but-23:but
+Lemma Annotation
+but-23:but
+POS
+but-23:CC
+NER
+but-23:O
+
+
+
+
+again-24
+Text Annotation
+again-24:again
+Lemma Annotation
+again-24:again
+POS
+again-24:RB
+NER
+again-24:O
+
+
+
+
+the-25
+Text Annotation
+the-25:the
+Lemma Annotation
+the-25:the
+POS
+the-25:DT
+NER
+the-25:O
+
+
+
+
+difference-26
+Text Annotation
+difference-26:difference
+Lemma Annotation
+difference-26:difference
+POS
+difference-26:NN
+NER
+difference-26:O
+
+
+
+
+was-27
+Text Annotation
+was-27:was
+Lemma Annotation
+was-27:be
+POS
+was-27:VBD
+NER
+was-27:O
+
+
+
+
+not-28
+Text Annotation
+not-28:not
+Lemma Annotation
+not-28:not
+POS
+not-28:RB
+NER
+not-28:O
+
+
+
+
+significant-29
+Text Annotation
+significant-29:significant
+Lemma Annotation
+significant-29:significant
+POS
+significant-29:JJ
+NER
+significant-29:O
+
+
+
+
+-LRB--30
+Text Annotation
+-LRB--30:-LRB-
+Lemma Annotation
+-LRB--30:-lrb-
+POS
+-LRB--30:-LRB-
+NER
+-LRB--30:O
+
+
+
+
+29.8-31
+Text Annotation
+29.8-31:29.8
+Lemma Annotation
+29.8-31:29.8
+POS
+29.8-31:CD
+NER
+29.8-31:NUMBER
+
+
+
+
+vs.-32
+Text Annotation
+vs.-32:vs.
+Lemma Annotation
+vs.-32:vs.
+POS
+vs.-32:CC
+NER
+vs.-32:O
+
+
+
+
+42.1-33
+Text Annotation
+42.1-33:42.1
+Lemma Annotation
+42.1-33:42.1
+POS
+42.1-33:CD
+NER
+42.1-33:NUMBER
+
+
+
+
+ppb-34
+Text Annotation
+ppb-34:ppb
+Lemma Annotation
+ppb-34:ppb
+POS
+ppb-34:NN
+NER
+ppb-34:O
+
+
+
+
+;-35
+Text Annotation
+;-35:;
+Lemma Annotation
+;-35:;
+POS
+;-35::
+NER
+;-35:O
+
+
+
+
+p-36
+Text Annotation
+p-36:p
+Lemma Annotation
+p-36:p
+POS
+p-36:NN
+NER
+p-36:O
+
+
+
+
+=-37
+Text Annotation
+=-37:=
+Lemma Annotation
+=-37:=
+POS
+=-37:JJ
+NER
+=-37:O
+
+
+
+
+0.189-38
+Text Annotation
+0.189-38:0.189
+Lemma Annotation
+0.189-38:0.189
+POS
+0.189-38:CD
+NER
+0.189-38:NUMBER
+
+
+
+
+-RRB--39
+Text Annotation
+-RRB--39:-RRB-
+Lemma Annotation
+-RRB--39:-rrb-
+POS
+-RRB--39:-RRB-
+NER
+-RRB--39:O
+
+
+
+
+.-40
+Text Annotation
+.-40:.
+Lemma Annotation
+.-40:.
+POS
+.-40:.
+NER
+.-40:O
+
+
+
+(ROOT (S (S (ADVP (RB Also)) (, ,) (NP (NP (DT the) (NN fraction)) (PP (IN of) (NP (NP (VBN exhaled) (JJ nitric) (NN oxide)) (PP (IN in) (NP (DT the) (NN prophylaxis) (NN group)))))) (VP (VBD tended) (S (VP (TO to) (VP (VB be) (ADJP (JJR lower)) (PP (IN than) (NP (NP (DT that)) (PP (IN of) (NP (NN control) (NN group)))))))))) (, ,) (CC but) (S (ADVP (RB again)) (NP (DT the) (NN difference)) (VP (VBD was) (ADJP (RB not) (JJ significant)) (PRN (-LRB- -LRB-) (NP (NP (CD 29.8)) (PP (CC vs.) (NP (NP (CD 42.1) (NN ppb)) (: ;) (NP (NN p)))) (ADJP (JJ =) (NP-TMP (CD 0.189)))) (-RRB- -RRB-)))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+We-1
+Text Annotation
+We-1:We
+Lemma Annotation
+We-1:we
+POS
+We-1:PRP
+NER
+We-1:O
+
+
+
+
+conclude-2
+Text Annotation
+conclude-2:conclude
+Lemma Annotation
+conclude-2:conclude
+POS
+conclude-2:VBP
+NER
+conclude-2:O
+
+
+
+
+that-3
+Text Annotation
+that-3:that
+Lemma Annotation
+that-3:that
+POS
+that-3:IN
+NER
+that-3:O
+
+
+
+
+antileukotriene-4
+Text Annotation
+antileukotriene-4:antileukotriene
+Lemma Annotation
+antileukotriene-4:antileukotriene
+POS
+antileukotriene-4:JJ
+NER
+antileukotriene-4:O
+
+
+
+
+prophylaxis-5
+Text Annotation
+prophylaxis-5:prophylaxis
+Lemma Annotation
+prophylaxis-5:prophylaxis
+POS
+prophylaxis-5:NN
+NER
+prophylaxis-5:O
+
+
+
+
+started-6
+Text Annotation
+started-6:started
+Lemma Annotation
+started-6:start
+POS
+started-6:VBD
+NER
+started-6:O
+
+
+
+
+2-7
+Text Annotation
+2-7:2
+Lemma Annotation
+2-7:2
+POS
+2-7:CD
+NER
+2-7:DURATION
+
+
+
+
+weeks-8
+Text Annotation
+weeks-8:weeks
+Lemma Annotation
+weeks-8:week
+POS
+weeks-8:NNS
+NER
+weeks-8:DURATION
+
+
+
+
+before-9
+Text Annotation
+before-9:before
+Lemma Annotation
+before-9:before
+POS
+before-9:IN
+NER
+before-9:O
+
+
+
+
+the-10
+Text Annotation
+the-10:the
+Lemma Annotation
+the-10:the
+POS
+the-10:DT
+NER
+the-10:O
+
+
+
+
+cypress-11
+Text Annotation
+cypress-11:cypress
+Lemma Annotation
+cypress-11:cypress
+POS
+cypress-11:NN
+NER
+cypress-11:O
+
+
+
+
+pollen-12
+Text Annotation
+pollen-12:pollen
+Lemma Annotation
+pollen-12:pollen
+POS
+pollen-12:NN
+NER
+pollen-12:O
+
+
+
+
+dispersal-13
+Text Annotation
+dispersal-13:dispersal
+Lemma Annotation
+dispersal-13:dispersal
+POS
+dispersal-13:NN
+NER
+dispersal-13:O
+
+
+
+
+was-14
+Text Annotation
+was-14:was
+Lemma Annotation
+was-14:be
+POS
+was-14:VBD
+NER
+was-14:O
+
+
+
+
+effective-15
+Text Annotation
+effective-15:effective
+Lemma Annotation
+effective-15:effective
+POS
+effective-15:JJ
+NER
+effective-15:O
+
+
+
+
+in-16
+Text Annotation
+in-16:in
+Lemma Annotation
+in-16:in
+POS
+in-16:IN
+NER
+in-16:O
+
+
+
+
+reducing-17
+Text Annotation
+reducing-17:reducing
+Lemma Annotation
+reducing-17:reduce
+POS
+reducing-17:VBG
+NER
+reducing-17:O
+
+
+
+
+the-18
+Text Annotation
+the-18:the
+Lemma Annotation
+the-18:the
+POS
+the-18:DT
+NER
+the-18:O
+
+
+
+
+need-19
+Text Annotation
+need-19:need
+Lemma Annotation
+need-19:need
+POS
+need-19:NN
+NER
+need-19:O
+
+
+
+
+for-20
+Text Annotation
+for-20:for
+Lemma Annotation
+for-20:for
+POS
+for-20:IN
+NER
+for-20:O
+
+
+
+
+rescue-21
+Text Annotation
+rescue-21:rescue
+Lemma Annotation
+rescue-21:rescue
+POS
+rescue-21:NN
+NER
+rescue-21:O
+
+
+
+
+medication-22
+Text Annotation
+medication-22:medication
+Lemma Annotation
+medication-22:medication
+POS
+medication-22:NN
+NER
+medication-22:O
+
+
+
+
+during-23
+Text Annotation
+during-23:during
+Lemma Annotation
+during-23:during
+POS
+during-23:IN
+NER
+during-23:O
+
+
+
+
+the-24
+Text Annotation
+the-24:the
+Lemma Annotation
+the-24:the
+POS
+the-24:DT
+NER
+the-24:O
+
+
+
+
+pollen-25
+Text Annotation
+pollen-25:pollen
+Lemma Annotation
+pollen-25:pollen
+POS
+pollen-25:NN
+NER
+pollen-25:O
+
+
+
+
+season-26
+Text Annotation
+season-26:season
+Lemma Annotation
+season-26:season
+POS
+season-26:NN
+NER
+season-26:O
+
+
+
+
+and-27
+Text Annotation
+and-27:and
+Lemma Annotation
+and-27:and
+POS
+and-27:CC
+NER
+and-27:O
+
+
+
+
+showed-28
+Text Annotation
+showed-28:showed
+Lemma Annotation
+showed-28:show
+POS
+showed-28:VBD
+NER
+showed-28:O
+
+
+
+
+a-29
+Text Annotation
+a-29:a
+Lemma Annotation
+a-29:a
+POS
+a-29:DT
+NER
+a-29:O
+
+
+
+
+trend-30
+Text Annotation
+trend-30:trend
+Lemma Annotation
+trend-30:trend
+POS
+trend-30:NN
+NER
+trend-30:O
+
+
+
+
+toward-31
+Text Annotation
+toward-31:toward
+Lemma Annotation
+toward-31:toward
+POS
+toward-31:IN
+NER
+toward-31:O
+
+
+
+
+alleviating-32
+Text Annotation
+alleviating-32:alleviating
+Lemma Annotation
+alleviating-32:alleviate
+POS
+alleviating-32:VBG
+NER
+alleviating-32:O
+
+
+
+
+the-33
+Text Annotation
+the-33:the
+Lemma Annotation
+the-33:the
+POS
+the-33:DT
+NER
+the-33:O
+
+
+
+
+eosinophilic-34
+Text Annotation
+eosinophilic-34:eosinophilic
+Lemma Annotation
+eosinophilic-34:eosinophilic
+POS
+eosinophilic-34:JJ
+NER
+eosinophilic-34:O
+
+
+
+
+inflammation-35
+Text Annotation
+inflammation-35:inflammation
+Lemma Annotation
+inflammation-35:inflammation
+POS
+inflammation-35:NN
+NER
+inflammation-35:O
+
+
+
+
+in-36
+Text Annotation
+in-36:in
+Lemma Annotation
+in-36:in
+POS
+in-36:IN
+NER
+in-36:O
+
+
+
+
+the-37
+Text Annotation
+the-37:the
+Lemma Annotation
+the-37:the
+POS
+the-37:DT
+NER
+the-37:O
+
+
+
+
+lower-38
+Text Annotation
+lower-38:lower
+Lemma Annotation
+lower-38:lower
+POS
+lower-38:JJR
+NER
+lower-38:O
+
+
+
+
+airway-39
+Text Annotation
+airway-39:airway
+Lemma Annotation
+airway-39:airway
+POS
+airway-39:NN
+NER
+airway-39:O
+
+
+
+
+induced-40
+Text Annotation
+induced-40:induced
+Lemma Annotation
+induced-40:induce
+POS
+induced-40:VBN
+NER
+induced-40:O
+
+
+
+
+by-41
+Text Annotation
+by-41:by
+Lemma Annotation
+by-41:by
+POS
+by-41:IN
+NER
+by-41:O
+
+
+
+
+the-42
+Text Annotation
+the-42:the
+Lemma Annotation
+the-42:the
+POS
+the-42:DT
+NER
+the-42:O
+
+
+
+
+pollen-43
+Text Annotation
+pollen-43:pollen
+Lemma Annotation
+pollen-43:pollen
+POS
+pollen-43:NN
+NER
+pollen-43:O
+
+
+
+
+.-44
+Text Annotation
+.-44:.
+Lemma Annotation
+.-44:.
+POS
+.-44:.
+NER
+.-44:O
+
+
+
+(ROOT (S (NP (PRP We)) (VP (VBP conclude) (SBAR (IN that) (S (NP (JJ antileukotriene) (NN prophylaxis)) (VP (VBD started) (NP-TMP (CD 2) (NNS weeks)) (SBAR (IN before) (S (NP (DT the) (NN cypress) (NN pollen) (NN dispersal)) (VP (VP (VBD was) (ADJP (JJ effective) (PP (IN in) (S (VP (VBG reducing) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (NN rescue) (NN medication)))))))) (PP (IN during) (NP (DT the) (NN pollen) (NN season)))) (CC and) (VP (VBD showed) (NP (DT a) (NN trend)) (PP (IN toward) (S (VP (VBG alleviating) (NP (DT the) (JJ eosinophilic) (NN inflammation)) (PP (IN in) (NP (NP (DT the) (JJR lower) (NN airway)) (VP (VBN induced) (PP (IN by) (NP (DT the) (NN pollen))))))))))))))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+To-1
+Text Annotation
+To-1:To
+Lemma Annotation
+To-1:to
+POS
+To-1:TO
+NER
+To-1:O
+
+
+
+
+review-2
+Text Annotation
+review-2:review
+Lemma Annotation
+review-2:review
+POS
+review-2:VB
+NER
+review-2:O
+
+
+
+
+oral-3
+Text Annotation
+oral-3:oral
+Lemma Annotation
+oral-3:oral
+POS
+oral-3:JJ
+NER
+oral-3:O
+
+
+
+
+allergy-4
+Text Annotation
+allergy-4:allergy
+Lemma Annotation
+allergy-4:allergy
+POS
+allergy-4:NN
+NER
+allergy-4:O
+
+
+
+
+syndrome-5
+Text Annotation
+syndrome-5:syndrome
+Lemma Annotation
+syndrome-5:syndrome
+POS
+syndrome-5:NN
+NER
+syndrome-5:O
+
+
+
+
+-LRB--6
+Text Annotation
+-LRB--6:-LRB-
+Lemma Annotation
+-LRB--6:-lrb-
+POS
+-LRB--6:-LRB-
+NER
+-LRB--6:O
+
+
+
+
+OAS-7
+Text Annotation
+OAS-7:OAS
+Lemma Annotation
+OAS-7:oas
+POS
+OAS-7:NN
+NER
+OAS-7:ORGANIZATION
+
+
+
+
+-RRB--8
+Text Annotation
+-RRB--8:-RRB-
+Lemma Annotation
+-RRB--8:-rrb-
+POS
+-RRB--8:-RRB-
+NER
+-RRB--8:O
+
+
+
+
+The-9
+Text Annotation
+The-9:The
+Lemma Annotation
+The-9:the
+POS
+The-9:DT
+NER
+The-9:O
+
+
+
+
+Joint-10
+Text Annotation
+Joint-10:Joint
+Lemma Annotation
+Joint-10:Joint
+POS
+Joint-10:NNP
+NER
+Joint-10:O
+
+
+
+
+Task-11
+Text Annotation
+Task-11:Task
+Lemma Annotation
+Task-11:Task
+POS
+Task-11:NNP
+NER
+Task-11:O
+
+
+
+
+Force-12
+Text Annotation
+Force-12:Force
+Lemma Annotation
+Force-12:Force
+POS
+Force-12:NNP
+NER
+Force-12:O
+
+
+
+
+on-13
+Text Annotation
+on-13:on
+Lemma Annotation
+on-13:on
+POS
+on-13:IN
+NER
+on-13:O
+
+
+
+
+Practice-14
+Text Annotation
+Practice-14:Practice
+Lemma Annotation
+Practice-14:Practice
+POS
+Practice-14:NNP
+NER
+Practice-14:ORGANIZATION
+
+
+
+
+Parameters-15
+Text Annotation
+Parameters-15:Parameters
+Lemma Annotation
+Parameters-15:Parameters
+POS
+Parameters-15:NNP
+NER
+Parameters-15:ORGANIZATION
+
+
+
+
+,-16
+Text Annotation
+,-16:,
+Lemma Annotation
+,-16:,
+POS
+,-16:,
+NER
+,-16:O
+
+
+
+
+which-17
+Text Annotation
+which-17:which
+Lemma Annotation
+which-17:which
+POS
+which-17:WDT
+NER
+which-17:O
+
+
+
+
+comprises-18
+Text Annotation
+comprises-18:comprises
+Lemma Annotation
+comprises-18:comprise
+POS
+comprises-18:VBZ
+NER
+comprises-18:O
+
+
+
+
+representatives-19
+Text Annotation
+representatives-19:representatives
+Lemma Annotation
+representatives-19:representative
+POS
+representatives-19:NNS
+NER
+representatives-19:O
+
+
+
+
+of-20
+Text Annotation
+of-20:of
+Lemma Annotation
+of-20:of
+POS
+of-20:IN
+NER
+of-20:O
+
+
+
+
+the-21
+Text Annotation
+the-21:the
+Lemma Annotation
+the-21:the
+POS
+the-21:DT
+NER
+the-21:O
+
+
+
+
+American-22
+Text Annotation
+American-22:American
+Lemma Annotation
+American-22:American
+POS
+American-22:NNP
+NER
+American-22:ORGANIZATION
+
+
+
+
+Academy-23
+Text Annotation
+Academy-23:Academy
+Lemma Annotation
+Academy-23:Academy
+POS
+Academy-23:NNP
+NER
+Academy-23:ORGANIZATION
+
+
+
+
+of-24
+Text Annotation
+of-24:of
+Lemma Annotation
+of-24:of
+POS
+of-24:IN
+NER
+of-24:ORGANIZATION
+
+
+
+
+Allergy-25
+Text Annotation
+Allergy-25:Allergy
+Lemma Annotation
+Allergy-25:Allergy
+POS
+Allergy-25:NNP
+NER
+Allergy-25:ORGANIZATION
+
+
+
+
+,-26
+Text Annotation
+,-26:,
+Lemma Annotation
+,-26:,
+POS
+,-26:,
+NER
+,-26:O
+
+
+
+
+Asthma-27
+Text Annotation
+Asthma-27:Asthma
+Lemma Annotation
+Asthma-27:Asthma
+POS
+Asthma-27:NNP
+NER
+Asthma-27:CAUSE_OF_DEATH
+
+
+
+
+and-28
+Text Annotation
+and-28:and
+Lemma Annotation
+and-28:and
+POS
+and-28:CC
+NER
+and-28:O
+
+
+
+
+Immunology-29
+Text Annotation
+Immunology-29:Immunology
+Lemma Annotation
+Immunology-29:Immunology
+POS
+Immunology-29:NNP
+NER
+Immunology-29:O
+
+
+
+
+-LRB--30
+Text Annotation
+-LRB--30:-LRB-
+Lemma Annotation
+-LRB--30:-lrb-
+POS
+-LRB--30:-LRB-
+NER
+-LRB--30:O
+
+
+
+
+AAAAI-31
+Text Annotation
+AAAAI-31:AAAAI
+Lemma Annotation
+AAAAI-31:AAAAI
+POS
+AAAAI-31:NNP
+NER
+AAAAI-31:O
+
+
+
+
+-RRB--32
+Text Annotation
+-RRB--32:-RRB-
+Lemma Annotation
+-RRB--32:-rrb-
+POS
+-RRB--32:-RRB-
+NER
+-RRB--32:O
+
+
+
+
+and-33
+Text Annotation
+and-33:and
+Lemma Annotation
+and-33:and
+POS
+and-33:CC
+NER
+and-33:O
+
+
+
+
+the-34
+Text Annotation
+the-34:the
+Lemma Annotation
+the-34:the
+POS
+the-34:DT
+NER
+the-34:O
+
+
+
+
+American-35
+Text Annotation
+American-35:American
+Lemma Annotation
+American-35:American
+POS
+American-35:NNP
+NER
+American-35:ORGANIZATION
+
+
+
+
+College-36
+Text Annotation
+College-36:College
+Lemma Annotation
+College-36:College
+POS
+College-36:NNP
+NER
+College-36:ORGANIZATION
+
+
+
+
+of-37
+Text Annotation
+of-37:of
+Lemma Annotation
+of-37:of
+POS
+of-37:IN
+NER
+of-37:ORGANIZATION
+
+
+
+
+Allergy-38
+Text Annotation
+Allergy-38:Allergy
+Lemma Annotation
+Allergy-38:Allergy
+POS
+Allergy-38:NNP
+NER
+Allergy-38:ORGANIZATION
+
+
+
+
+,-39
+Text Annotation
+,-39:,
+Lemma Annotation
+,-39:,
+POS
+,-39:,
+NER
+,-39:O
+
+
+
+
+Asthma-40
+Text Annotation
+Asthma-40:Asthma
+Lemma Annotation
+Asthma-40:Asthma
+POS
+Asthma-40:NNP
+NER
+Asthma-40:CAUSE_OF_DEATH
+
+
+
+
+and-41
+Text Annotation
+and-41:and
+Lemma Annotation
+and-41:and
+POS
+and-41:CC
+NER
+and-41:O
+
+
+
+
+Immunology-42
+Text Annotation
+Immunology-42:Immunology
+Lemma Annotation
+Immunology-42:Immunology
+POS
+Immunology-42:NNP
+NER
+Immunology-42:O
+
+
+
+
+-LRB--43
+Text Annotation
+-LRB--43:-LRB-
+Lemma Annotation
+-LRB--43:-lrb-
+POS
+-LRB--43:-LRB-
+NER
+-LRB--43:O
+
+
+
+
+ACAAI-44
+Text Annotation
+ACAAI-44:ACAAI
+Lemma Annotation
+ACAAI-44:ACAAI
+POS
+ACAAI-44:NNP
+NER
+ACAAI-44:O
+
+
+
+
+-RRB--45
+Text Annotation
+-RRB--45:-RRB-
+Lemma Annotation
+-RRB--45:-rrb-
+POS
+-RRB--45:-RRB-
+NER
+-RRB--45:O
+
+
+
+
+,-46
+Text Annotation
+,-46:,
+Lemma Annotation
+,-46:,
+POS
+,-46:,
+NER
+,-46:O
+
+
+
+
+formed-47
+Text Annotation
+formed-47:formed
+Lemma Annotation
+formed-47:form
+POS
+formed-47:VBD
+NER
+formed-47:O
+
+
+
+
+a-48
+Text Annotation
+a-48:a
+Lemma Annotation
+a-48:a
+POS
+a-48:DT
+NER
+a-48:O
+
+
+
+
+workgroup-49
+Text Annotation
+workgroup-49:workgroup
+Lemma Annotation
+workgroup-49:workgroup
+POS
+workgroup-49:NN
+NER
+workgroup-49:O
+
+
+
+
+to-50
+Text Annotation
+to-50:to
+Lemma Annotation
+to-50:to
+POS
+to-50:TO
+NER
+to-50:O
+
+
+
+
+review-51
+Text Annotation
+review-51:review
+Lemma Annotation
+review-51:review
+POS
+review-51:VB
+NER
+review-51:O
+
+
+
+
+evidence-52
+Text Annotation
+evidence-52:evidence
+Lemma Annotation
+evidence-52:evidence
+POS
+evidence-52:NN
+NER
+evidence-52:O
+
+
+
+
+and-53
+Text Annotation
+and-53:and
+Lemma Annotation
+and-53:and
+POS
+and-53:CC
+NER
+and-53:O
+
+
+
+
+provide-54
+Text Annotation
+provide-54:provide
+Lemma Annotation
+provide-54:provide
+POS
+provide-54:VB
+NER
+provide-54:O
+
+
+
+
+guidance-55
+Text Annotation
+guidance-55:guidance
+Lemma Annotation
+guidance-55:guidance
+POS
+guidance-55:NN
+NER
+guidance-55:O
+
+
+
+
+to-56
+Text Annotation
+to-56:to
+Lemma Annotation
+to-56:to
+POS
+to-56:TO
+NER
+to-56:O
+
+
+
+
+health-57
+Text Annotation
+health-57:health
+Lemma Annotation
+health-57:health
+POS
+health-57:NN
+NER
+health-57:O
+
+
+
+
+care-58
+Text Annotation
+care-58:care
+Lemma Annotation
+care-58:care
+POS
+care-58:NN
+NER
+care-58:O
+
+
+
+
+providers-59
+Text Annotation
+providers-59:providers
+Lemma Annotation
+providers-59:provider
+POS
+providers-59:NNS
+NER
+providers-59:O
+
+
+
+
+on-60
+Text Annotation
+on-60:on
+Lemma Annotation
+on-60:on
+POS
+on-60:IN
+NER
+on-60:O
+
+
+
+
+the-61
+Text Annotation
+the-61:the
+Lemma Annotation
+the-61:the
+POS
+the-61:DT
+NER
+the-61:O
+
+
+
+
+initial-62
+Text Annotation
+initial-62:initial
+Lemma Annotation
+initial-62:initial
+POS
+initial-62:JJ
+NER
+initial-62:O
+
+
+
+
+pharmacologic-63
+Text Annotation
+pharmacologic-63:pharmacologic
+Lemma Annotation
+pharmacologic-63:pharmacologic
+POS
+pharmacologic-63:JJ
+NER
+pharmacologic-63:O
+
+
+
+
+treatment-64
+Text Annotation
+treatment-64:treatment
+Lemma Annotation
+treatment-64:treatment
+POS
+treatment-64:NN
+NER
+treatment-64:O
+
+
+
+
+of-65
+Text Annotation
+of-65:of
+Lemma Annotation
+of-65:of
+POS
+of-65:IN
+NER
+of-65:O
+
+
+
+
+seasonal-66
+Text Annotation
+seasonal-66:seasonal
+Lemma Annotation
+seasonal-66:seasonal
+POS
+seasonal-66:JJ
+NER
+seasonal-66:O
+
+
+
+
+allergic-67
+Text Annotation
+allergic-67:allergic
+Lemma Annotation
+allergic-67:allergic
+POS
+allergic-67:JJ
+NER
+allergic-67:O
+
+
+
+
+rhinitis-68
+Text Annotation
+rhinitis-68:rhinitis
+Lemma Annotation
+rhinitis-68:rhinitis
+POS
+rhinitis-68:NN
+NER
+rhinitis-68:O
+
+
+
+
+in-69
+Text Annotation
+in-69:in
+Lemma Annotation
+in-69:in
+POS
+in-69:IN
+NER
+in-69:O
+
+
+
+
+patients-70
+Text Annotation
+patients-70:patients
+Lemma Annotation
+patients-70:patient
+POS
+patients-70:NNS
+NER
+patients-70:O
+
+
+
+
+aged-71
+Text Annotation
+aged-71:aged
+Lemma Annotation
+aged-71:aged
+POS
+aged-71:JJ
+NER
+aged-71:O
+
+
+
+
+12-72
+Text Annotation
+12-72:12
+Lemma Annotation
+12-72:12
+POS
+12-72:CD
+NER
+12-72:DURATION
+
+
+
+
+years-73
+Text Annotation
+years-73:years
+Lemma Annotation
+years-73:year
+POS
+years-73:NNS
+NER
+years-73:DURATION
+
+
+
+
+or-74
+Text Annotation
+or-74:or
+Lemma Annotation
+or-74:or
+POS
+or-74:CC
+NER
+or-74:O
+
+
+
+
+older-75
+Text Annotation
+older-75:older
+Lemma Annotation
+older-75:older
+POS
+older-75:JJR
+NER
+older-75:O
+
+
+
+
+.-76
+Text Annotation
+.-76:.
+Lemma Annotation
+.-76:.
+POS
+.-76:.
+NER
+.-76:O
+
+
+
+(ROOT (S (S (VP (TO To) (VP (VB review) (S (NP (NP (JJ oral) (NN allergy) (NN syndrome)) (PRN (-LRB- -LRB-) (NP (NN OAS)) (-RRB- -RRB-))) (NP (NP (DT The) (NNP Joint) (NNP Task) (NNP Force)) (PP (IN on) (NP (NP (NNP Practice) (NNP Parameters)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ comprises) (NP (NP (NNS representatives)) (PP (IN of) (NP (NP (NP (DT the) (NNP American) (NNP Academy)) (PP (IN of) (NP (NNP Allergy) (, ,) (NNP Asthma) (CC and) (NNP Immunology))) (PRN (-LRB- -LRB-) (NP (NNP AAAAI)) (-RRB- -RRB-))) (CC and) (NP (NP (DT the) (NNP American) (NNP College)) (PP (IN of) (NP (NNP Allergy) (, ,) (NNP Asthma) (CC and) (NNP Immunology))) (PRN (-LRB- -LRB-) (NP (NNP ACAAI)) (-RRB- -RRB-))))))))) (, ,)))))))) (VP (VBD formed) (NP (DT a) (NN workgroup) (S (VP (TO to) (VP (VP (VB review) (NP (NN evidence))) (CC and) (VP (VB provide) (NP (ADJP (NN guidance) (PP (TO to) (NP (NN health)))) (NN care) (NNS providers)) (PP (IN on) (NP (NP (DT the) (JJ initial) (JJ pharmacologic) (NN treatment)) (PP (IN of) (NP (JJ seasonal) (JJ allergic) (NN rhinitis))))) (PP (IN in) (NP (NP (NNS patients)) (ADJP (ADJP (ADJP (JJ aged)) (NP (CD 12) (NNS years))) (CC or) (ADJP (JJR older))))))))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+Cetirizine-1
+Text Annotation
+Cetirizine-1:Cetirizine
+Lemma Annotation
+Cetirizine-1:Cetirizine
+POS
+Cetirizine-1:NNP
+NER
+Cetirizine-1:O
+
+
+
+
+has-2
+Text Annotation
+has-2:has
+Lemma Annotation
+has-2:have
+POS
+has-2:VBZ
+NER
+has-2:O
+
+
+
+
+been-3
+Text Annotation
+been-3:been
+Lemma Annotation
+been-3:be
+POS
+been-3:VBN
+NER
+been-3:O
+
+
+
+
+shown-4
+Text Annotation
+shown-4:shown
+Lemma Annotation
+shown-4:show
+POS
+shown-4:VBN
+NER
+shown-4:O
+
+
+
+
+to-5
+Text Annotation
+to-5:to
+Lemma Annotation
+to-5:to
+POS
+to-5:TO
+NER
+to-5:O
+
+
+
+
+be-6
+Text Annotation
+be-6:be
+Lemma Annotation
+be-6:be
+POS
+be-6:VB
+NER
+be-6:O
+
+
+
+
+effective-7
+Text Annotation
+effective-7:effective
+Lemma Annotation
+effective-7:effective
+POS
+effective-7:JJ
+NER
+effective-7:O
+
+
+
+
+for-8
+Text Annotation
+for-8:for
+Lemma Annotation
+for-8:for
+POS
+for-8:IN
+NER
+for-8:O
+
+
+
+
+relief-9
+Text Annotation
+relief-9:relief
+Lemma Annotation
+relief-9:relief
+POS
+relief-9:NN
+NER
+relief-9:O
+
+
+
+
+of-10
+Text Annotation
+of-10:of
+Lemma Annotation
+of-10:of
+POS
+of-10:IN
+NER
+of-10:O
+
+
+
+
+seasonal-11
+Text Annotation
+seasonal-11:seasonal
+Lemma Annotation
+seasonal-11:seasonal
+POS
+seasonal-11:JJ
+NER
+seasonal-11:O
+
+
+
+
+allergic-12
+Text Annotation
+allergic-12:allergic
+Lemma Annotation
+allergic-12:allergic
+POS
+allergic-12:JJ
+NER
+allergic-12:O
+
+
+
+
+rhinitis-13
+Text Annotation
+rhinitis-13:rhinitis
+Lemma Annotation
+rhinitis-13:rhinitis
+POS
+rhinitis-13:NN
+NER
+rhinitis-13:O
+
+
+
+
+-LRB--14
+Text Annotation
+-LRB--14:-LRB-
+Lemma Annotation
+-LRB--14:-lrb-
+POS
+-LRB--14:-LRB-
+NER
+-LRB--14:O
+
+
+
+
+SAR-15
+Text Annotation
+SAR-15:SAR
+Lemma Annotation
+SAR-15:sar
+POS
+SAR-15:NN
+NER
+SAR-15:O
+
+
+
+
+-RRB--16
+Text Annotation
+-RRB--16:-RRB-
+Lemma Annotation
+-RRB--16:-rrb-
+POS
+-RRB--16:-RRB-
+NER
+-RRB--16:O
+
+
+
+
+symptoms-17
+Text Annotation
+symptoms-17:symptoms
+Lemma Annotation
+symptoms-17:symptom
+POS
+symptoms-17:NNS
+NER
+symptoms-17:O
+
+
+
+
+.-18
+Text Annotation
+.-18:.
+Lemma Annotation
+.-18:.
+POS
+.-18:.
+NER
+.-18:O
+
+
+
+(ROOT (S (NP (NNP Cetirizine)) (VP (VBZ has) (VP (VBN been) (VP (VBN shown) (S (VP (TO to) (VP (VB be) (ADJP (JJ effective) (PP (IN for) (NP (NP (NN relief)) (PP (IN of) (NP (JJ seasonal) (JJ allergic) (NN rhinitis) (-LRB- -LRB-) (NN SAR) (-RRB- -RRB-) (NNS symptoms)))))))))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+Allergic-1
+Text Annotation
+Allergic-1:Allergic
+Lemma Annotation
+Allergic-1:allergic
+POS
+Allergic-1:JJ
+NER
+Allergic-1:O
+
+
+
+
+rhinitis-2
+Text Annotation
+rhinitis-2:rhinitis
+Lemma Annotation
+rhinitis-2:rhinitis
+POS
+rhinitis-2:NN
+NER
+rhinitis-2:O
+
+
+
+
+symptoms-3
+Text Annotation
+symptoms-3:symptoms
+Lemma Annotation
+symptoms-3:symptom
+POS
+symptoms-3:NNS
+NER
+symptoms-3:O
+
+
+
+
+have-4
+Text Annotation
+have-4:have
+Lemma Annotation
+have-4:have
+POS
+have-4:VBP
+NER
+have-4:O
+
+
+
+
+been-5
+Text Annotation
+been-5:been
+Lemma Annotation
+been-5:be
+POS
+been-5:VBN
+NER
+been-5:O
+
+
+
+
+reported-6
+Text Annotation
+reported-6:reported
+Lemma Annotation
+reported-6:report
+POS
+reported-6:VBN
+NER
+reported-6:O
+
+
+
+
+to-7
+Text Annotation
+to-7:to
+Lemma Annotation
+to-7:to
+POS
+to-7:TO
+NER
+to-7:O
+
+
+
+
+have-8
+Text Annotation
+have-8:have
+Lemma Annotation
+have-8:have
+POS
+have-8:VB
+NER
+have-8:O
+
+
+
+
+circadian-9
+Text Annotation
+circadian-9:circadian
+Lemma Annotation
+circadian-9:circadian
+POS
+circadian-9:JJ
+NER
+circadian-9:O
+
+
+
+
+variations-10
+Text Annotation
+variations-10:variations
+Lemma Annotation
+variations-10:variation
+POS
+variations-10:NNS
+NER
+variations-10:O
+
+
+
+
+,-11
+Text Annotation
+,-11:,
+Lemma Annotation
+,-11:,
+POS
+,-11:,
+NER
+,-11:O
+
+
+
+
+with-12
+Text Annotation
+with-12:with
+Lemma Annotation
+with-12:with
+POS
+with-12:IN
+NER
+with-12:O
+
+
+
+
+symptoms-13
+Text Annotation
+symptoms-13:symptoms
+Lemma Annotation
+symptoms-13:symptom
+POS
+symptoms-13:NNS
+NER
+symptoms-13:O
+
+
+
+
+tending-14
+Text Annotation
+tending-14:tending
+Lemma Annotation
+tending-14:tend
+POS
+tending-14:VBG
+NER
+tending-14:O
+
+
+
+
+to-15
+Text Annotation
+to-15:to
+Lemma Annotation
+to-15:to
+POS
+to-15:TO
+NER
+to-15:O
+
+
+
+
+be-16
+Text Annotation
+be-16:be
+Lemma Annotation
+be-16:be
+POS
+be-16:VB
+NER
+be-16:O
+
+
+
+
+most-17
+Text Annotation
+most-17:most
+Lemma Annotation
+most-17:most
+POS
+most-17:RBS
+NER
+most-17:O
+
+
+
+
+bothersome-18
+Text Annotation
+bothersome-18:bothersome
+Lemma Annotation
+bothersome-18:bothersome
+POS
+bothersome-18:JJ
+NER
+bothersome-18:O
+
+
+
+
+overnight-19
+Text Annotation
+overnight-19:overnight
+Lemma Annotation
+overnight-19:overnight
+POS
+overnight-19:JJ
+NER
+overnight-19:TIME
+
+
+
+
+and-20
+Text Annotation
+and-20:and
+Lemma Annotation
+and-20:and
+POS
+and-20:CC
+NER
+and-20:O
+
+
+
+
+in-21
+Text Annotation
+in-21:in
+Lemma Annotation
+in-21:in
+POS
+in-21:IN
+NER
+in-21:O
+
+
+
+
+the-22
+Text Annotation
+the-22:the
+Lemma Annotation
+the-22:the
+POS
+the-22:DT
+NER
+the-22:O
+
+
+
+
+morning-23
+Text Annotation
+morning-23:morning
+Lemma Annotation
+morning-23:morning
+POS
+morning-23:NN
+NER
+morning-23:TIME
+
+
+
+
+.-24
+Text Annotation
+.-24:.
+Lemma Annotation
+.-24:.
+POS
+.-24:.
+NER
+.-24:O
+
+
+
+(ROOT (S (NP (JJ Allergic) (NN rhinitis) (NNS symptoms)) (VP (VBP have) (VP (VBN been) (VP (VBN reported) (S (VP (TO to) (VP (VB have) (NP (JJ circadian) (NNS variations)) (, ,) (PP (PP (IN with) (NP (NP (NNS symptoms)) (VP (VBG tending) (S (VP (TO to) (VP (VB be) (NP (ADJP (RBS most) (JJ bothersome)) (JJ overnight)))))))) (CC and) (PP (IN in) (NP (DT the) (NN morning)))))))))) (. .)))
+[CHAIN1-["intranasal steroids and anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN2-["intranasal steroids" in sentence 1], CHAIN3-["anti-cysteinyl-leukotriene-receptor antagonists" in sentence 1], CHAIN4-["the treatment of seasonal allergic rhinitis -LRB- SAR -RRB-" in sentence 1], CHAIN5-["combinations of these agents" in sentence 1], CHAIN6-["these agents" in sentence 1], CHAIN7-["the individual drugs" in sentence 1], CHAIN8-["We" in sentence 2, "We" in sentence 4, "Our" in sentence 5], CHAIN9-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB- , oral montelukast -LRB- MNT -RRB- , and combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN10-["the efficacy and potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN11-["the efficacy" in sentence 2], CHAIN12-["potential mechanisms of budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN13-["budesonide nasal spray -LRB- BD -RRB-" in sentence 2], CHAIN14-["combination therapy comprising a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN15-["a half-dose of budesonide plus montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN16-["a half-dose of budesonide" in sentence 2], CHAIN17-["montelukast -LRB- hBD + MNT -RRB- in SAR patients" in sentence 2], CHAIN18-["hBD + MNT" in sentence 2], CHAIN19-["SAR patients" in sentence 2], CHAIN20-["The evidence supporting the prophylactic treatment of seasonal allergic rhinitis before the start of pollen dispersal" in sentence 3], CHAIN21-["the prophylactic treatment of seasonal allergic rhinitis" in sentence 3], CHAIN22-["the start of pollen dispersal" in sentence 3], CHAIN23-["pollen dispersal" in sentence 3], CHAIN25-["a study to investigate the efficacy of prophylaxis with montelukast for seasonal allergic rhinitis and to evaluate its influence on the inflammatory condition of the lower airway" in sentence 4], CHAIN26-["the efficacy of prophylaxis" in sentence 4, "its" in sentence 4], CHAIN27-["montelukast for seasonal allergic rhinitis" in sentence 4], CHAIN28-["its influence" in sentence 4], CHAIN30-["the inflammatory condition of the lower airway" in sentence 4], CHAIN31-["the lower airway" in sentence 4], CHAIN32-["57" in sentence 5], CHAIN33-["Our final study population" in sentence 5], CHAIN35-["57 adults who were randomized to a prophylactic treatment group and a control group" in sentence 5], CHAIN36-["a prophylactic treatment group and a control group" in sentence 5, "The control group" in sentence 7, "control group" in sentence 10], CHAIN37-["a prophylactic treatment group" in sentence 5], CHAIN38-["a control group" in sentence 5], CHAIN39-["31" in sentence 6], CHAIN40-["21" in sentence 6], CHAIN41-["36.9" in sentence 6], CHAIN42-["The prophylaxis group" in sentence 6, "the prophylaxis group" in sentence 10], CHAIN43-["31 patients-10 men and 21 women" in sentence 6], CHAIN44-["31 patients-10 men" in sentence 6], CHAIN45-["21 women" in sentence 6], CHAIN46-["18 to 54 years -LRB- mean : 36.9 -RRB- - who were administered montelukast for 2 weeks before the cypress pollen season" in sentence 6], CHAIN47-["mean : 36.9" in sentence 6], CHAIN48-["montelukast for 2 weeks" in sentence 6], CHAIN49-["2 weeks" in sentence 6, "2 weeks" in sentence 11], CHAIN50-["the cypress pollen season" in sentence 6, "the season" in sentence 6, "the pollen season" in sentence 7, "the pollen season" in sentence 8, "the pollen season" in sentence 11], CHAIN51-["the remainder of the season" in sentence 6], CHAIN53-["26" in sentence 7], CHAIN54-["15" in sentence 7], CHAIN55-["39.2" in sentence 7], CHAIN57-["26 patients-11 men and 15 women" in sentence 7], CHAIN58-["26 patients-11 men" in sentence 7], CHAIN59-["15 women" in sentence 7], CHAIN60-["24" in sentence 7], CHAIN61-["63 years -LRB- mean : 39.2 -RRB- - who took montelukast during the pollen season only" in sentence 7], CHAIN62-["mean : 39.2" in sentence 7], CHAIN64-["3.22" in sentence 8], CHAIN65-["0.001" in sentence 8], CHAIN67-["the mean daily rescue medication score" in sentence 8], CHAIN68-["the prophylaxis group -LRB- 3.22 vs. 3.89 ; p = 0.001 -RRB-" in sentence 8], CHAIN69-["3.22 vs. 3.89 ; p = 0.001" in sentence 8], CHAIN70-["3.89 ; p" in sentence 8], CHAIN71-["two" in sentence 9], CHAIN72-["no statistical difference in the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9, "the difference" in sentence 10], CHAIN73-["the two groups ' mean daily rhinoconjunctivitis symptom scores" in sentence 9], CHAIN74-["the two groups '" in sentence 9], CHAIN75-["29.8" in sentence 10], CHAIN76-["42.1" in sentence 10], CHAIN77-["0.189" in sentence 10], CHAIN78-["the fraction of exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN79-["exhaled nitric oxide in the prophylaxis group" in sentence 10], CHAIN81-["that of control group" in sentence 10], CHAIN84-["29.8 vs. 42.1 ppb ; p = 0.189" in sentence 10], CHAIN85-["42.1 ppb ; p" in sentence 10], CHAIN86-["We" in sentence 11], CHAIN88-["the cypress pollen dispersal" in sentence 11], CHAIN89-["the need for rescue medication" in sentence 11], CHAIN90-["rescue medication" in sentence 11], CHAIN92-["a trend" in sentence 11], CHAIN93-["the eosinophilic inflammation" in sentence 11], CHAIN94-["the lower airway induced by the pollen" in sentence 11], CHAIN95-["the pollen" in sentence 11], CHAIN96-["Practice Parameters" in sentence 12], CHAIN97-["American Academy of Allergy" in sentence 12], CHAIN98-["American College of Allergy" in sentence 12], CHAIN100-["The Joint Task Force on Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN101-["Practice Parameters , which comprises representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN102-["representatives of the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN103-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB- and the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN104-["the American Academy of Allergy , Asthma and Immunology -LRB- AAAAI -RRB-" in sentence 12], CHAIN105-["Allergy , Asthma and Immunology" in sentence 12, "Allergy , Asthma and Immunology" in sentence 12], CHAIN106-["AAAAI" in sentence 12], CHAIN107-["the American College of Allergy , Asthma and Immunology -LRB- ACAAI -RRB-" in sentence 12], CHAIN109-["ACAAI" in sentence 12], CHAIN110-["a workgroup to review evidence and provide guidance to health care providers on the initial pharmacologic treatment of seasonal allergic rhinitis in patients aged 12 years or older" in sentence 12], CHAIN111-["guidance to health care providers" in sentence 12], CHAIN112-["the initial pharmacologic treatment of seasonal allergic rhinitis" in sentence 12], CHAIN113-["patients aged 12 years or older" in sentence 12], CHAIN114-["12 years" in sentence 12], CHAIN116-["Asthma" in sentence 12, "Asthma" in sentence 12], CHAIN117-["Immunology" in sentence 12, "Immunology" in sentence 12], CHAIN118-["Cetirizine" in sentence 13], CHAIN119-["relief of seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13], CHAIN120-["seasonal allergic rhinitis -LRB- SAR -RRB- symptoms" in sentence 13, "Allergic rhinitis symptoms" in sentence 14], CHAIN122-["circadian variations" in sentence 14], CHAIN123-["symptoms tending to be most bothersome overnight" in sentence 14], CHAIN124-["most bothersome overnight" in sentence 14], CHAIN125-["the morning" in sentence 14]]
+
+Process finished with exit code 0

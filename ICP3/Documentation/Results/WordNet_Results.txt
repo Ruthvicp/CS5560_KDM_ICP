@@ -1,0 +1,667 @@
+"C:\Program Files\Java\jdk1.8.0_162\bin\java.exe" "-javaagent:C:\Users\ruthv\IntelliJ IDEA 2018.1.1\lib\idea_rt.jar=51848:C:\Users\ruthv\IntelliJ IDEA 2018.1.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_162\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar;C:\Users\ruthv\IdeaProjects\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\target\scala-2.11\classes;C:\Users\ruthv\.ivy2\cache\aopalliance\aopalliance\jars\aopalliance-1.0.jar;C:\Users\ruthv\.ivy2\cache\com.apple\AppleJavaExtensions\jars\AppleJavaExtensions-1.4.jar;C:\Users\ruthv\.ivy2\cache\com.carrotsearch\hppc\bundles\hppc-0.7.2.jar;C:\Users\ruthv\.ivy2\cache\com.chuusai\shapeless_2.11\bundles\shapeless_2.11-2.3.2.jar;C:\Users\ruthv\.ivy2\cache\com.clearspring.analytics\stream\jars\stream-2.7.0.jar;C:\Users\ruthv\.ivy2\cache\com.esotericsoftware\kryo-shaded\bundles\kryo-shaded-3.0.3.jar;C:\Users\ruthv\.ivy2\cache\com.esotericsoftware\minlog\bundles\minlog-1.3.0.jar;C:\Users\ruthv\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\bundles\jackson-annotations-2.6.7.jar;C:\Users\ruthv\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\bundles\jackson-core-2.7.9.jar;C:\Users\ruthv\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\bundles\jackson-databind-2.6.7.1.jar;C:\Users\ruthv\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-paranamer\bundles\jackson-module-paranamer-2.7.9.jar;C:\Users\ruthv\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-scala_2.11\bundles\jackson-module-scala_2.11-2.6.7.1.jar;C:\Users\ruthv\.ivy2\cache\com.github.fommil.netlib\core\jars\core-1.1.2.jar;C:\Users\ruthv\.ivy2\cache\com.github.luben\zstd-jni\bundles\zstd-jni-1.3.2-2.jar;C:\Users\ruthv\.ivy2\cache\com.github.rwl\jtransforms\jars\jtransforms-2.4.0.jar;C:\Users\ruthv\.ivy2\cache\com.github.scopt\scopt_2.10\jars\scopt_2.10-3.4.0.jar;C:\Users\ruthv\.ivy2\cache\com.google.code.findbugs\jsr305\jars\jsr305-3.0.2.jar;C:\Users\ruthv\.ivy2\cache\com.google.code.gson\gson\jars\gson-2.2.4.jar;C:\Users\ruthv\.ivy2\cache\com.google.guava\guava\jars\guava-11.0.2.jar;C:\Users\ruthv\.ivy2\cache\com.google.inject\guice\jars\guice-3.0.jar;C:\Users\ruthv\.ivy2\cache\com.google.protobuf\protobuf-java\bundles\protobuf-java-3.2.0.jar;C:\Users\ruthv\.ivy2\cache\com.googlecode.efficient-java-matrix-library\ejml\jars\ejml-0.23.jar;C:\Users\ruthv\.ivy2\cache\com.googlecode.json-simple\json-simple\bundles\json-simple-1.1.1.jar;C:\Users\ruthv\.ivy2\cache\com.io7m.xom\xom\jars\xom-1.2.10.jar;C:\Users\ruthv\.ivy2\cache\com.jamesmurty.utils\java-xmlbuilder\jars\java-xmlbuilder-1.1.jar;C:\Users\ruthv\.ivy2\cache\com.ning\compress-lzf\bundles\compress-lzf-1.0.3.jar;C:\Users\ruthv\.ivy2\cache\com.thoughtworks.paranamer\paranamer\bundles\paranamer-2.8.jar;C:\Users\ruthv\.ivy2\cache\com.twitter\chill-java\jars\chill-java-0.8.4.jar;C:\Users\ruthv\.ivy2\cache\com.twitter\chill_2.11\jars\chill_2.11-0.8.4.jar;C:\Users\ruthv\.ivy2\cache\com.univocity\univocity-parsers\jars\univocity-parsers-2.5.9.jar;C:\Users\ruthv\.ivy2\cache\com.vlkan\flatbuffers\jars\flatbuffers-1.2.0-3f79e055.jar;C:\Users\ruthv\.ivy2\cache\commons-beanutils\commons-beanutils\jars\commons-beanutils-1.7.0.jar;C:\Users\ruthv\.ivy2\cache\commons-beanutils\commons-beanutils-core\jars\commons-beanutils-core-1.8.0.jar;C:\Users\ruthv\.ivy2\cache\commons-cli\commons-cli\jars\commons-cli-1.2.jar;C:\Users\ruthv\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.11.jar;C:\Users\ruthv\.ivy2\cache\commons-collections\commons-collections\jars\commons-collections-3.2.2.jar;C:\Users\ruthv\.ivy2\cache\commons-configuration\commons-configuration\jars\commons-configuration-1.6.jar;C:\Users\ruthv\.ivy2\cache\commons-digester\commons-digester\jars\commons-digester-1.8.jar;C:\Users\ruthv\.ivy2\cache\commons-httpclient\commons-httpclient\jars\commons-httpclient-3.1.jar;C:\Users\ruthv\.ivy2\cache\commons-io\commons-io\jars\commons-io-2.4.jar;C:\Users\ruthv\.ivy2\cache\commons-lang\commons-lang\jars\commons-lang-2.6.jar;C:\Users\ruthv\.ivy2\cache\commons-logging\commons-logging\jars\commons-logging-1.2.jar;C:\Users\ruthv\.ivy2\cache\commons-net\commons-net\jars\commons-net-2.2.jar;C:\Users\ruthv\.ivy2\cache\de.jollyday\jollyday\jars\jollyday-0.4.9.jar;C:\Users\ruthv\.ivy2\cache\edu.stanford.nlp\stanford-corenlp\jars\stanford-corenlp-3.9.1.jar;C:\Users\ruthv\.ivy2\cache\edu.stanford.nlp\stanford-corenlp\jars\stanford-corenlp-3.9.1-models.jar;C:\Users\ruthv\.ivy2\cache\edu.stanford.nlp\stanford-parser\jars\stanford-parser-3.9.1.jar;C:\Users\ruthv\.ivy2\cache\io.airlift\aircompressor\jars\aircompressor-0.8.jar;C:\Users\ruthv\.ivy2\cache\io.dropwizard.metrics\metrics-core\bundles\metrics-core-3.1.5.jar;C:\Users\ruthv\.ivy2\cache\io.dropwizard.metrics\metrics-graphite\bundles\metrics-graphite-3.1.5.jar;C:\Users\ruthv\.ivy2\cache\io.dropwizard.metrics\metrics-json\bundles\metrics-json-3.1.5.jar;C:\Users\ruthv\.ivy2\cache\io.dropwizard.metrics\metrics-jvm\bundles\metrics-jvm-3.1.5.jar;C:\Users\ruthv\.ivy2\cache\io.netty\netty\bundles\netty-3.9.9.Final.jar;C:\Users\ruthv\.ivy2\cache\io.netty\netty-all\jars\netty-all-4.1.17.Final.jar;C:\Users\ruthv\.ivy2\cache\javax.activation\activation\jars\activation-1.1.1.jar;C:\Users\ruthv\.ivy2\cache\javax.annotation\javax.annotation-api\jars\javax.annotation-api-1.2.jar;C:\Users\ruthv\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar;C:\Users\ruthv\.ivy2\cache\javax.servlet\javax.servlet-api\jars\javax.servlet-api-3.1.0.jar;C:\Users\ruthv\.ivy2\cache\javax.validation\validation-api\jars\validation-api-1.1.0.Final.jar;C:\Users\ruthv\.ivy2\cache\javax.ws.rs\javax.ws.rs-api\jars\javax.ws.rs-api-2.0.1.jar;C:\Users\ruthv\.ivy2\cache\javax.xml.bind\jaxb-api\jars\jaxb-api-2.2.7.jar;C:\Users\ruthv\.ivy2\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\ruthv\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.9.9.jar;C:\Users\ruthv\.ivy2\cache\junit\junit\jars\junit-4.10.jar;C:\Users\ruthv\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar;C:\Users\ruthv\.ivy2\cache\net.iharder\base64\jars\base64-2.3.8.jar;C:\Users\ruthv\.ivy2\cache\net.java.dev.jets3t\jets3t\jars\jets3t-0.9.4.jar;C:\Users\ruthv\.ivy2\cache\net.razorvine\pyrolite\jars\pyrolite-4.13.jar;C:\Users\ruthv\.ivy2\cache\net.sf.opencsv\opencsv\jars\opencsv-2.3.jar;C:\Users\ruthv\.ivy2\cache\net.sf.py4j\py4j\jars\py4j-0.10.7.jar;C:\Users\ruthv\.ivy2\cache\net.sourceforge.f2j\arpack_combined_all\jars\arpack_combined_all-0.1.jar;C:\Users\ruthv\.ivy2\cache\org.antlr\antlr4-runtime\jars\antlr4-runtime-4.7.jar;C:\Users\ruthv\.ivy2\cache\org.apache.arrow\arrow-format\jars\arrow-format-0.8.0.jar;C:\Users\ruthv\.ivy2\cache\org.apache.arrow\arrow-memory\jars\arrow-memory-0.8.0.jar;C:\Users\ruthv\.ivy2\cache\org.apache.arrow\arrow-vector\jars\arrow-vector-0.8.0.jar;C:\Users\ruthv\.ivy2\cache\org.apache.avro\avro\jars\avro-1.7.7.jar;C:\Users\ruthv\.ivy2\cache\org.apache.avro\avro-ipc\jars\avro-ipc-1.7.7.jar;C:\Users\ruthv\.ivy2\cache\org.apache.avro\avro-ipc\jars\avro-ipc-1.7.7-tests.jar;C:\Users\ruthv\.ivy2\cache\org.apache.avro\avro-mapred\jars\avro-mapred-1.7.7-hadoop2.jar;C:\Users\ruthv\.ivy2\cache\org.apache.commons\commons-compress\jars\commons-compress-1.4.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.commons\commons-crypto\jars\commons-crypto-1.0.0.jar;C:\Users\ruthv\.ivy2\cache\org.apache.commons\commons-lang3\jars\commons-lang3-3.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.commons\commons-math3\jars\commons-math3-3.4.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.curator\curator-client\bundles\curator-client-2.6.0.jar;C:\Users\ruthv\.ivy2\cache\org.apache.curator\curator-framework\bundles\curator-framework-2.6.0.jar;C:\Users\ruthv\.ivy2\cache\org.apache.curator\curator-recipes\bundles\curator-recipes-2.6.0.jar;C:\Users\ruthv\.ivy2\cache\org.apache.directory.api\api-asn1-api\bundles\api-asn1-api-1.0.0-M20.jar;C:\Users\ruthv\.ivy2\cache\org.apache.directory.api\api-util\bundles\api-util-1.0.0-M20.jar;C:\Users\ruthv\.ivy2\cache\org.apache.directory.server\apacheds-i18n\bundles\apacheds-i18n-2.0.0-M15.jar;C:\Users\ruthv\.ivy2\cache\org.apache.directory.server\apacheds-kerberos-codec\bundles\apacheds-kerberos-codec-2.0.0-M15.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-annotations\jars\hadoop-annotations-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-auth\jars\hadoop-auth-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-client\jars\hadoop-client-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-common\jars\hadoop-common-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-hdfs\jars\hadoop-hdfs-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-app\jars\hadoop-mapreduce-client-app-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\jars\hadoop-mapreduce-client-common-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-core\jars\hadoop-mapreduce-client-core-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-jobclient\jars\hadoop-mapreduce-client-jobclient-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\jars\hadoop-mapreduce-client-shuffle-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\jars\hadoop-yarn-api-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-yarn-client\jars\hadoop-yarn-client-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\jars\hadoop-yarn-common-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-common\jars\hadoop-yarn-server-common-2.6.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.httpcomponents\httpclient\jars\httpclient-4.5.2.jar;C:\Users\ruthv\.ivy2\cache\org.apache.httpcomponents\httpcore\jars\httpcore-4.4.5.jar;C:\Users\ruthv\.ivy2\cache\org.apache.ivy\ivy\jars\ivy-2.4.0.jar;C:\Users\ruthv\.ivy2\cache\org.apache.lucene\lucene-analyzers-common\jars\lucene-analyzers-common-4.10.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.lucene\lucene-core\jars\lucene-core-4.10.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.lucene\lucene-queries\jars\lucene-queries-4.10.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.lucene\lucene-queryparser\jars\lucene-queryparser-4.10.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.lucene\lucene-sandbox\jars\lucene-sandbox-4.10.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.orc\orc-core\jars\orc-core-1.4.4-nohive.jar;C:\Users\ruthv\.ivy2\cache\org.apache.orc\orc-mapreduce\jars\orc-mapreduce-1.4.4-nohive.jar;C:\Users\ruthv\.ivy2\cache\org.apache.parquet\parquet-column\jars\parquet-column-1.8.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.parquet\parquet-common\jars\parquet-common-1.8.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.parquet\parquet-encoding\jars\parquet-encoding-1.8.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.parquet\parquet-format\jars\parquet-format-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.parquet\parquet-hadoop\jars\parquet-hadoop-1.8.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.parquet\parquet-jackson\jars\parquet-jackson-1.8.3.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-graphx_2.11\jars\spark-graphx_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-kvstore_2.11\jars\spark-kvstore_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-launcher_2.11\jars\spark-launcher_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-mllib-local_2.11\jars\spark-mllib-local_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-network-common_2.11\jars\spark-network-common_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.11\jars\spark-network-shuffle_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-sketch_2.11\jars\spark-sketch_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-tags_2.11\jars\spark-tags_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.spark\spark-unsafe_2.11\jars\spark-unsafe_2.11-2.3.1.jar;C:\Users\ruthv\.ivy2\cache\org.apache.xbean\xbean-asm5-shaded\bundles\xbean-asm5-shaded-4.4.jar;C:\Users\ruthv\.ivy2\cache\org.apache.zookeeper\zookeeper\jars\zookeeper-3.4.6.jar;C:\Users\ruthv\.ivy2\cache\org.bouncycastle\bcprov-jdk15on\jars\bcprov-jdk15on-1.52.jar;C:\Users\ruthv\.ivy2\cache\org.codehaus.jackson\jackson-core-asl\jars\jackson-core-asl-1.9.13.jar;C:\Users\ruthv\.ivy2\cache\org.codehaus.jackson\jackson-jaxrs\jars\jackson-jaxrs-1.9.13.jar;C:\Users\ruthv\.ivy2\cache\org.codehaus.jackson\jackson-mapper-asl\jars\jackson-mapper-asl-1.9.13.jar;C:\Users\ruthv\.ivy2\cache\org.codehaus.jackson\jackson-xc\jars\jackson-xc-1.9.13.jar;C:\Users\ruthv\.ivy2\cache\org.codehaus.janino\commons-compiler\jars\commons-compiler-3.0.8.jar;C:\Users\ruthv\.ivy2\cache\org.codehaus.janino\janino\jars\janino-3.0.8.jar;C:\Users\ruthv\.ivy2\cache\org.codehaus.jettison\jettison\bundles\jettison-1.1.jar;C:\Users\ruthv\.ivy2\cache\org.fusesource.leveldbjni\leveldbjni-all\bundles\leveldbjni-all-1.8.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish\javax.json\bundles\javax.json-1.0.4.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.hk2\hk2-api\jars\hk2-api-2.4.0-b34.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.hk2\hk2-locator\jars\hk2-locator-2.4.0-b34.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.hk2\hk2-utils\jars\hk2-utils-2.4.0-b34.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.hk2\osgi-resource-locator\jars\osgi-resource-locator-1.0.1.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.hk2.external\aopalliance-repackaged\jars\aopalliance-repackaged-2.4.0-b34.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.hk2.external\javax.inject\jars\javax.inject-2.4.0-b34.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.jersey.bundles.repackaged\jersey-guava\bundles\jersey-guava-2.22.2.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet\jars\jersey-container-servlet-2.22.2.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet-core\jars\jersey-container-servlet-core-2.22.2.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.jersey.core\jersey-client\jars\jersey-client-2.22.2.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.jersey.core\jersey-common\jars\jersey-common-2.22.2.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.jersey.core\jersey-server\jars\jersey-server-2.22.2.jar;C:\Users\ruthv\.ivy2\cache\org.glassfish.jersey.media\jersey-media-jaxb\jars\jersey-media-jaxb-2.22.2.jar;C:\Users\ruthv\.ivy2\cache\org.hamcrest\hamcrest-core\jars\hamcrest-core-1.1.jar;C:\Users\ruthv\.ivy2\cache\org.htrace\htrace-core\jars\htrace-core-3.0.4.jar;C:\Users\ruthv\.ivy2\cache\org.javassist\javassist\bundles\javassist-3.18.1-GA.jar;C:\Users\ruthv\.ivy2\cache\org.json4s\json4s-ast_2.11\jars\json4s-ast_2.11-3.2.11.jar;C:\Users\ruthv\.ivy2\cache\org.json4s\json4s-core_2.11\jars\json4s-core_2.11-3.2.11.jar;C:\Users\ruthv\.ivy2\cache\org.json4s\json4s-jackson_2.11\jars\json4s-jackson_2.11-3.2.11.jar;C:\Users\ruthv\.ivy2\cache\org.lz4\lz4-java\jars\lz4-java-1.4.0.jar;C:\Users\ruthv\.ivy2\cache\org.mortbay.jetty\jetty-util\jars\jetty-util-6.1.26.jar;C:\Users\ruthv\.ivy2\cache\org.objenesis\objenesis\jars\objenesis-2.1.jar;C:\Users\ruthv\.ivy2\cache\org.roaringbitmap\RoaringBitmap\bundles\RoaringBitmap-0.5.11.jar;C:\Users\ruthv\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.11.8.jar;C:\Users\ruthv\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar;C:\Users\ruthv\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar;C:\Users\ruthv\.ivy2\cache\org.scala-lang\scalap\jars\scalap-2.11.8.jar;C:\Users\ruthv\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar;C:\Users\ruthv\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.4.jar;C:\Users\ruthv\.ivy2\cache\org.scalanlp\breeze-macros_2.11\jars\breeze-macros_2.11-0.13.2.jar;C:\Users\ruthv\.ivy2\cache\org.scalanlp\breeze_2.11\jars\breeze_2.11-0.13.2.jar;C:\Users\ruthv\.ivy2\cache\org.slf4j\jcl-over-slf4j\jars\jcl-over-slf4j-1.7.16.jar;C:\Users\ruthv\.ivy2\cache\org.slf4j\jul-to-slf4j\jars\jul-to-slf4j-1.7.16.jar;C:\Users\ruthv\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.25.jar;C:\Users\ruthv\.ivy2\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.7.16.jar;C:\Users\ruthv\.ivy2\cache\org.sonatype.sisu.inject\cglib\jars\cglib-2.2.1-v20090111.jar;C:\Users\ruthv\.ivy2\cache\org.spark-project.spark\unused\jars\unused-1.0.0.jar;C:\Users\ruthv\.ivy2\cache\org.spire-math\spire-macros_2.11\jars\spire-macros_2.11-0.13.0.jar;C:\Users\ruthv\.ivy2\cache\org.spire-math\spire_2.11\jars\spire_2.11-0.13.0.jar;C:\Users\ruthv\.ivy2\cache\org.tukaani\xz\jars\xz-1.0.jar;C:\Users\ruthv\.ivy2\cache\org.typelevel\machinist_2.11\jars\machinist_2.11-0.6.1.jar;C:\Users\ruthv\.ivy2\cache\org.typelevel\macro-compat_2.11\jars\macro-compat_2.11-1.1.1.jar;C:\Users\ruthv\.ivy2\cache\org.xerial.snappy\snappy-java\bundles\snappy-java-1.1.2.6.jar;C:\Users\ruthv\.ivy2\cache\oro\oro\jars\oro-2.0.8.jar;C:\Users\ruthv\.ivy2\cache\xalan\xalan\jars\xalan-2.7.0.jar;C:\Users\ruthv\.ivy2\cache\xerces\xercesImpl\jars\xercesImpl-2.9.1.jar;C:\Users\ruthv\.ivy2\cache\xml-apis\xml-apis\jars\xml-apis-1.3.04.jar;C:\Users\ruthv\.ivy2\cache\xmlenc\xmlenc\jars\xmlenc-0.52.jar;C:\Users\ruthv\IdeaProjects\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\lib\rita.jar" wordnet.WordNetSpark
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+18/09/07 20:36:00 INFO SparkContext: Running Spark version 2.3.1
+18/09/07 20:36:01 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/09/07 20:36:01 INFO SparkContext: Submitted application: WordNetSpark
+18/09/07 20:36:01 INFO SecurityManager: Changing view acls to: ruthv
+18/09/07 20:36:01 INFO SecurityManager: Changing modify acls to: ruthv
+18/09/07 20:36:01 INFO SecurityManager: Changing view acls groups to: 
+18/09/07 20:36:01 INFO SecurityManager: Changing modify acls groups to: 
+18/09/07 20:36:01 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(ruthv); groups with view permissions: Set(); users  with modify permissions: Set(ruthv); groups with modify permissions: Set()
+18/09/07 20:36:02 INFO Utils: Successfully started service 'sparkDriver' on port 51871.
+18/09/07 20:36:02 INFO SparkEnv: Registering MapOutputTracker
+18/09/07 20:36:02 INFO SparkEnv: Registering BlockManagerMaster
+18/09/07 20:36:02 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+18/09/07 20:36:02 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+18/09/07 20:36:02 INFO DiskBlockManager: Created local directory at C:\Users\ruthv\AppData\Local\Temp\blockmgr-0b969724-1576-45ab-9382-e99ab023f0c8
+18/09/07 20:36:02 INFO MemoryStore: MemoryStore started with capacity 1985.4 MB
+18/09/07 20:36:02 INFO SparkEnv: Registering OutputCommitCoordinator
+18/09/07 20:36:02 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+18/09/07 20:36:02 INFO SparkUI: Bound SparkUI to 0.0.0.0, and started at http://LAPTOP-IL49H3LQ:4040
+18/09/07 20:36:03 INFO Executor: Starting executor ID driver on host localhost
+18/09/07 20:36:03 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 51892.
+18/09/07 20:36:03 INFO NettyBlockTransferService: Server created on LAPTOP-IL49H3LQ:51892
+18/09/07 20:36:03 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+18/09/07 20:36:03 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, LAPTOP-IL49H3LQ, 51892, None)
+18/09/07 20:36:03 INFO BlockManagerMasterEndpoint: Registering block manager LAPTOP-IL49H3LQ:51892 with 1985.4 MB RAM, BlockManagerId(driver, LAPTOP-IL49H3LQ, 51892, None)
+18/09/07 20:36:03 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, LAPTOP-IL49H3LQ, 51892, None)
+18/09/07 20:36:03 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, LAPTOP-IL49H3LQ, 51892, None)
+18/09/07 20:36:04 INFO MemoryStore: Block broadcast_0 stored as values in memory (estimated size 214.6 KB, free 1985.2 MB)
+18/09/07 20:36:04 INFO MemoryStore: Block broadcast_0_piece0 stored as bytes in memory (estimated size 20.4 KB, free 1985.2 MB)
+18/09/07 20:36:04 INFO BlockManagerInfo: Added broadcast_0_piece0 in memory on LAPTOP-IL49H3LQ:51892 (size: 20.4 KB, free: 1985.4 MB)
+18/09/07 20:36:04 INFO SparkContext: Created broadcast 0 from textFile at WordNetSpark.scala:16
+18/09/07 20:36:04 INFO FileInputFormat: Total input paths to process : 1
+18/09/07 20:36:04 INFO SparkContext: Starting job: collect at WordNetSpark.scala:30
+18/09/07 20:36:04 INFO DAGScheduler: Got job 0 (collect at WordNetSpark.scala:30) with 2 output partitions
+18/09/07 20:36:04 INFO DAGScheduler: Final stage: ResultStage 0 (collect at WordNetSpark.scala:30)
+18/09/07 20:36:04 INFO DAGScheduler: Parents of final stage: List()
+18/09/07 20:36:04 INFO DAGScheduler: Missing parents: List()
+18/09/07 20:36:04 INFO DAGScheduler: Submitting ResultStage 0 (MapPartitionsRDD[2] at map at WordNetSpark.scala:18), which has no missing parents
+18/09/07 20:36:04 INFO MemoryStore: Block broadcast_1 stored as values in memory (estimated size 3.4 KB, free 1985.2 MB)
+18/09/07 20:36:04 INFO MemoryStore: Block broadcast_1_piece0 stored as bytes in memory (estimated size 2.0 KB, free 1985.2 MB)
+18/09/07 20:36:04 INFO BlockManagerInfo: Added broadcast_1_piece0 in memory on LAPTOP-IL49H3LQ:51892 (size: 2.0 KB, free: 1985.4 MB)
+18/09/07 20:36:04 INFO SparkContext: Created broadcast 1 from broadcast at DAGScheduler.scala:1039
+18/09/07 20:36:04 INFO DAGScheduler: Submitting 2 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at map at WordNetSpark.scala:18) (first 15 tasks are for partitions Vector(0, 1))
+18/09/07 20:36:04 INFO TaskSchedulerImpl: Adding task set 0.0 with 2 tasks
+18/09/07 20:36:04 INFO TaskSetManager: Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, PROCESS_LOCAL, 7945 bytes)
+18/09/07 20:36:04 INFO TaskSetManager: Starting task 1.0 in stage 0.0 (TID 1, localhost, executor driver, partition 1, PROCESS_LOCAL, 7945 bytes)
+18/09/07 20:36:04 INFO Executor: Running task 0.0 in stage 0.0 (TID 0)
+18/09/07 20:36:04 INFO Executor: Running task 1.0 in stage 0.0 (TID 1)
+18/09/07 20:36:04 INFO HadoopRDD: Input split: file:/C:/Users/ruthv/IdeaProjects/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/pubmed/1.txt:1379+1380
+18/09/07 20:36:04 INFO HadoopRDD: Input split: file:/C:/Users/ruthv/IdeaProjects/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/pubmed/1.txt:0+1379
+review
+are
+n
+n v
+efficacious
+a
+oral
+a n
+allergy
+n
+in
+n a r
+syndrome
+n
+on
+r a
+treatment
+n
+seasonal
+n a
+formed
+a
+allergic
+a
+rhinitis
+n
+have
+v n
+a
+n
+review
+n v
+evidence
+n v
+provide
+v
+guidance
+n
+health
+n
+not
+r
+unequivocally
+r
+demonstrated
+care
+a
+n v
+be
+v n
+on
+r a
+initial
+n v a
+pharmacologic
+superior
+a
+a n
+treatment
+n
+seasonal
+n a
+allergic
+a
+rhinitis
+n
+in
+n a r
+aged
+a n
+12
+n a
+individual
+a n
+compare
+v n
+years
+n
+efficacy
+n
+potential
+n a
+nasal
+n a
+spray
+n v
+oral
+a n
+combination
+n
+or
+n
+be
+v n
+therapy
+n
+a
+n
+effective
+a
+plus
+n a
+relief
+n
+in
+n a r
+evidence
+n v
+supporting
+a n
+seasonal
+n a
+prophylactic
+a n
+treatment
+n
+allergic
+seasonal
+a
+n a
+allergic
+a
+rhinitis
+rhinitis
+n
+n
+before
+r
+rhinitis
+n
+have
+v n
+start
+v n
+reported
+a
+have
+v n
+circadian
+a
+tending
+n a
+be
+v n
+most
+r a
+bothersome
+a
+overnight
+r a
+in
+n a r
+pollen
+n
+dispersal
+n
+still
+a n v r
+a
+n
+study
+n v
+investigate
+v
+efficacy
+n
+prophylaxis
+n
+seasonal
+n a
+allergic
+a
+rhinitis
+n
+evaluate
+v
+influence
+n v
+on
+r a
+inflammatory
+a
+condition
+n v
+lower
+v n
+18/09/07 20:36:05 INFO Executor: Finished task 1.0 in stage 0.0 (TID 1). 6715 bytes result sent to driver
+final
+a n
+study
+n v
+population
+n
+made
+a
+up
+a r v
+57
+a
+who
+n
+randomized
+a
+a
+n
+prophylactic
+a n
+treatment
+n
+group
+n v
+a
+n
+control
+n v
+18/09/07 20:36:05 INFO TaskSetManager: Finished task 1.0 in stage 0.0 (TID 1) in 722 ms on localhost (executor driver) (1/2)
+prophylaxis
+n
+group
+n v
+made
+a
+up
+a r v
+31
+a
+men
+n
+21
+n a
+aged
+a n
+18
+n a
+54
+a
+years
+n
+2
+n a
+before
+r
+cypress
+n
+pollen
+n
+season
+n v
+subsequently
+r
+throughout
+r
+remainder
+n v
+control
+n v
+group
+n v
+made
+a
+up
+a r v
+26
+n a
+men
+n
+15
+n a
+aged
+a n
+24
+n a
+63
+a
+years
+n
+pollen
+n
+season
+n v
+pollen
+n
+mean
+a v n
+daily
+a r n
+rescue
+v n
+medication
+n
+score
+n v
+significantly
+r
+lower
+v n
+in
+n a r
+prophylaxis
+n
+group
+n v
+p
+n
+there
+r n
+no
+r n a
+statistical
+a
+difference
+n
+in
+n a r
+two
+n a
+mean
+a v n
+daily
+a r n
+symptom
+n
+fraction
+n v
+nitric
+a
+oxide
+n
+in
+n a r
+prophylaxis
+n
+group
+n v
+be
+v n
+lower
+v n
+control
+n v
+but
+r
+again
+r
+difference
+n
+not
+r
+significant
+a
+p
+n
+conclude
+v
+prophylaxis
+n
+2
+n a
+before
+r
+cypress
+n
+pollen
+n
+dispersal
+n
+effective
+a
+in
+n a r
+reducing
+n
+need
+n v
+rescue
+v n
+medication
+n
+pollen
+n
+season
+n v
+a
+n
+trend
+n v
+eosinophilic
+a
+inflammation
+n
+in
+n a r
+lower
+v n
+airway
+n
+induced
+a
+by
+r
+18/09/07 20:36:05 INFO Executor: Finished task 0.0 in stage 0.0 (TID 0). 19513 bytes result sent to driver
+18/09/07 20:36:05 INFO TaskSetManager: Finished task 0.0 in stage 0.0 (TID 0) in 884 ms on localhost (executor driver) (2/2)
+18/09/07 20:36:05 INFO DAGScheduler: ResultStage 0 (collect at WordNetSpark.scala:30) finished in 1.031 s
+18/09/07 20:36:05 INFO TaskSchedulerImpl: Removed TaskSet 0.0, whose tasks have all completed, from pool 
+are:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,em
+efficacious:effective,effectual,efficient,hard-hitting,impelling,impressive,potent,powerful,rough-and-ready,stiff
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+seasonal:accumulator,assistant,beater,bill poster,bill sticker,blackleg,bleacher,boater,boatman,carter
+allergic:hypersensitised,hypersensitive,hypersensitized,sensitised,sensitized,supersensitised,supersensitive,supersensitized,susceptible
+rhinitis:adenitis,allergic rhinitis,alveolitis,angiitis,aortitis,appendicitis,arteritis,balanitis,balanoposthitis,blepharitis
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+not:non
+unequivocally:unambiguously
+demonstrated:incontestable,incontestible
+be:abound,accept,account,account for,act,add up,adhere,adorn,agree,amount
+superior:A-one,ace,arch,banner,best,blue-ribbon,boss,brag,brilliant,capital
+individual:case-by-case,idiosyncratic,independent,individualist,individualistic,item-by-item,man-to-man,one-on-one,personal,private
+compare:abound,accept,account,account for,act,add up,adhere,adorn,amount,analogise
+efficacy:efficaciousness,incisiveness,trenchancy
+potential:achievability,amperage,attainability,attainableness,capacitance,capacity,chance,charge,conceivability,conceivableness
+nasal:Wormian bone,alveolar,alveolar consonant,anklebone,arcus zygomaticus,aspirate,astragal,astragalus,bare bone,bonelet
+spray:acaracide,acaricide,aerosol,aerosol bomb,aerosol can,aerosol container,airbrush,arsenical,atomiser,atomizer
+oral:buccal,spoken,unwritten
+combination:Allies,Asia,Axis,Central America,Central Powers,Europe,Fibonacci sequence,Free World,GAAP,ICU
+therapy:EMDA,HRT,actinotherapy,aftercare,allopathy,anticoagulation,aromatherapy,bandaging,binding,bloodletting
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+plus:ability,accuracy,addition,adequacy,advantage,air,amorality,appearance,arability,aridity
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+evidence:acquaintance,ammunition,arcanum,argument,attestation,background,background knowledge,circumstance,circumstantial evidence,clew
+supporting:bearing,encouraging,load-bearing,supportive
+prophylactic:antifertility,cautionary,contraceptive,healthful,preventative,preventive,protective
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+seasonal:accumulator,assistant,beater,bill poster,bill sticker,blackleg,bleacher,boater,boatman,carter
+allergic:hypersensitised,hypersensitive,hypersensitized,sensitised,sensitized,supersensitised,supersensitive,supersensitized,susceptible
+rhinitis:adenitis,allergic rhinitis,alveolitis,angiitis,aortitis,appendicitis,arteritis,balanitis,balanoposthitis,blepharitis
+before:ahead,earlier,in front
+start:abandon,abound,accept,account,account for,ace,acquit,act,act on,act superior
+pollen:aeciospore,ascospore,basidiospore,carpospore,chlamydospore,conidiospore,conidium,endospore,fern seed,macrospore
+dispersal:circulation,crop-dusting,decentralisation,decentralization,diffusion,dispersion,dissemination,scatter,scattering,spraying
+still:calm,inactive,motionless,noneffervescent,nonmoving,placid,quiet,silent,smooth,soundless
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+investigate:anatomize,appraise,assay,audit,check,check into,check out,check over,check up on,compare
+efficacy:efficaciousness,incisiveness,trenchancy
+prophylaxis:averting,crushing,debarment,disqualification,forestalling,interception,non-proliferation,nonproliferation,obviation,preclusion
+seasonal:accumulator,assistant,beater,bill poster,bill sticker,blackleg,bleacher,boater,boatman,carter
+allergic:hypersensitised,hypersensitive,hypersensitized,sensitised,sensitized,supersensitised,supersensitive,supersensitized,susceptible
+rhinitis:adenitis,allergic rhinitis,alveolitis,angiitis,aortitis,appendicitis,arteritis,balanitis,balanoposthitis,blepharitis18/09/07 20:36:05 INFO DAGScheduler: Job 0 finished: collect at WordNetSpark.scala:30, took 1.097179 s
+
+evaluate:accept,adjudge,anticipate,appraise,approve,ascribe,assess,assign,associate,attribute
+influence:Coriolis effect,Moloch,aftereffect,aftermath,backwash,bandwagon effect,branch,brisance,butterfly effect,by-product
+on:along
+inflammatory:incendiary,incitive,instigative,provocative,rabble-rousing,seditious,unhealthy
+condition:Bertillon system,Bill of Rights,absolution,account,acquaintance,action,activeness,activity,aeroembolism,agency
+lower:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abate,abbreviate,abridge
+final:closing,concluding,inalterable,last,net,terminal,ultimate,unalterable
+study:PM,adagio,allegretto,allegro,allometry,andante,anechoic chamber,antechamber,anteroom,applied science
+population:Asia,Central America,Europe,Free World,GAAP,Judaica,North America,Oort cloud,South America,Third World
+made:ready-made,successful
+up:ahead,ascending,astir,awake,aweigh,dormie,dormy,finished,functioning,heavenward
+57:cardinal,fifty-seven,lvii
+who:Centre for International Crime Prevention,DCCP,FAO,Food and Agriculture Organization,Food and Agriculture Organization of the United Nations,GATT,General Agreement on Tariffs and Trade,IAEA,IBRD,ICAO
+randomized:irregular,randomised
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+prophylactic:antifertility,cautionary,contraceptive,healthful,preventative,preventive,protective
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+group:Abelian group,Mandelbrot set,accumulation,actinide,actinoid,actinon,acyl,acyl group,aggregation,alcohol group
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+control:New Deal,ablactation,absolution,absolutism,acting,action,action mechanism,activating,activation,actuator
+prophylaxis:averting,crushing,debarment,disqualification,forestalling,interception,non-proliferation,nonproliferation,obviation,preclusion
+group:Abelian group,Mandelbrot set,accumulation,actinide,actinoid,actinon,acyl,acyl group,aggregation,alcohol group
+made:ready-made,successful
+up:ahead,ascending,astir,awake,aweigh,dormie,dormy,finished,functioning,heavenward
+31:cardinal,thirty-one,xxxi
+men:MP,armed forces,armed service,armed services,complement,constabulary,full complement,guerilla force,guerrilla force,hands
+21:10,100,1000,10000,100000,1000000,1000000000,1000000000000,11,12
+aged:cured,elderly,mature,of age,old,older,preserved,ripe,ripened,senior
+18:10,100,1000,10000,100000,1000000,1000000000,1000000000000,11,12
+54:cardinal,fifty-four,liv
+years:Golden Age,Indian summer,Olympiad,Platonic year,Saint Martin's summer,adolescence,adulthood,aeon,age,air alert
+2:0,1,3,4,5,6,7,8,9,Captain Hicks
+before:ahead,earlier,in front
+cypress:African yellowwood,Arizona cypress,Athrotaxis selaginoides,Callitris quadrivalvis,Cathaya,Cupressus abramsiana,Cupressus arizonica,Cupressus goveniana,Cupressus goveniana abramsiana,Cupressus goveniana pigmaea
+pollen:aeciospore,ascospore,basidiospore,carpospore,chlamydospore,conidiospore,conidium,endospore,fern seed,macrospore
+season:Advent,Allhallowtide,Christmas,Christmastide,Christmastime,Eastertide,Golden Age,Indian summer,Lammastide,Lent
+subsequently:after,afterward,afterwards,later,later on
+throughout:end-to-end,passim
+remainder:Fibonacci number,addend,arity,atomic number,augend,balance,baryon number,base,basis,bib
+control:New Deal,ablactation,absolution,absolutism,acting,action,action mechanism,activating,activation,actuator
+group:Abelian group,Mandelbrot set,accumulation,actinide,actinoid,actinon,acyl,acyl group,aggregation,alcohol group
+made:ready-made,successful
+up:ahead,ascending,astir,awake,aweigh,dormie,dormy,finished,functioning,heavenward
+26:10,100,1000,10000,100000,1000000,1000000000,1000000000000,11,12
+men:MP,armed forces,armed service,armed services,complement,constabulary,full complement,guerilla force,guerrilla force,hands
+15:10,100,1000,10000,100000,1000000,1000000000,1000000000000,11,12
+aged:cured,elderly,mature,of age,old,older,preserved,ripe,ripened,senior
+24:10,100,1000,10000,100000,1000000,1000000000,1000000000000,11,12
+63:cardinal,lxiii,sixty-three
+years:Golden Age,Indian summer,Olympiad,Platonic year,Saint Martin's summer,adolescence,adulthood,aeon,age,air alert
+pollen:aeciospore,ascospore,basidiospore,carpospore,chlamydospore,conidiospore,conidium,endospore,fern seed,macrospore
+season:Advent,Allhallowtide,Christmas,Christmastide,Christmastime,Eastertide,Golden Age,Indian summer,Lammastide,Lent
+pollen:aeciospore,ascospore,basidiospore,carpospore,chlamydospore,conidiospore,conidium,endospore,fern seed,macrospore
+mean:average,awful,base,bastardly,beggarly,contemptible,hateful,ignoble,meanspirited,mingy
+daily:casual,day-after-day,day-by-day,day-to-day,everyday,informal,periodic,periodical
+rescue:arrogate,assume,deliver,despoil,extort,foray,loot,pillage,plunder,ransack
+medication:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,EMDA,Feosol,Fergon,Fosamax
+score:Cartesian product,Fibonacci number,account,addend,arity,arrears,atomic number,augend,bad debt,bang
+significantly:importantly
+lower:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abate,abbreviate,abridge
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+prophylaxis:averting,crushing,debarment,disqualification,forestalling,interception,non-proliferation,nonproliferation,obviation,preclusion
+group:Abelian group,Mandelbrot set,accumulation,actinide,actinoid,actinon,acyl,acyl group,aggregation,alcohol group
+p:A,Ac,Ar,As,At,B,Bh,Br,C,Cl
+there:at that place,in that location,in that respect,on that point,thither
+no:no more
+statistical:
+difference:Fibonacci number,ability,accuracy,addend,adequacy,air,allomerism,amorality,appearance,arability
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+two:0,1,2,3,4,5,6,7,8,9
+mean:average,awful,base,bastardly,beggarly,contemptible,hateful,ignoble,meanspirited,mingy
+daily:casual,day-after-day,day-by-day,day-to-day,everyday,informal,periodic,periodical
+symptom:Jacquemier's sign,Kayser-Fleischer ring,Kernig's sign,Koplik's spots,abscess,acetonemia,acetonuria,ague,albuminuria,alkalinuria
+fraction:Alar,appendage,backbone,bacteriacide,bactericide,bit,bottleneck,bulb,butt,carbon tetrahalide
+nitric:azotic,nitrous
+oxide:U308,acceptor,acid,adduct,alkali,allomorph,aluminate,ammine,anhydride,anionic compound
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+prophylaxis:averting,crushing,debarment,disqualification,forestalling,interception,non-proliferation,nonproliferation,obviation,preclusion
+group:Abelian group,Mandelbrot set,accumulation,actinide,actinoid,actinon,acyl,acyl group,aggregation,alcohol group
+be:abound,accept,account,account for,act,add up,adhere,adorn,agree,amount
+lower:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abate,abbreviate,abridge
+control:New Deal,ablactation,absolution,absolutism,acting,action,action mechanism,activating,activation,actuator
+but:just,merely,only,simply
+again:once again,once more,over again
+difference:Fibonacci number,ability,accuracy,addend,adequacy,air,allomerism,amorality,appearance,arability
+not:non
+significant:considerable,earthshaking,epoch-making,epochal,evidential,evidentiary,fundamental,important,large,meaning
+p:A,Ac,Ar,As,At,B,Bh,Br,C,Cl
+conclude:abort,adjourn,adjudicate,arrange,associate,ax,axe,brainstorm,break,break off
+prophylaxis:averting,crushing,debarment,disqualification,forestalling,interception,non-proliferation,nonproliferation,obviation,preclusion
+2:0,1,3,4,5,6,7,8,9,Captain Hicks
+before:ahead,earlier,in front
+cypress:African yellowwood,Arizona cypress,Athrotaxis selaginoides,Callitris quadrivalvis,Cathaya,Cupressus abramsiana,Cupressus arizonica,Cupressus goveniana,Cupressus goveniana abramsiana,Cupressus goveniana pigmaea
+pollen:aeciospore,ascospore,basidiospore,carpospore,chlamydospore,conidiospore,conidium,endospore,fern seed,macrospore
+dispersal:circulation,crop-dusting,decentralisation,decentralization,diffusion,dispersion,dissemination,scatter,scattering,spraying
+effective:actual,competent,effectual,efficacious,efficient,existent,good,hard-hitting,impelling,impressive
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+reducing:addition reaction,aldol reaction,chain reaction,chemical decomposition reaction,chemical equilibrium,decomposition,decomposition reaction,displacement,displacement reaction,double decomposition
+need:absolution,ambiance,ambience,amyotonia,anchorage,ascendance,ascendancy,ascendence,ascendency,astigmatism
+rescue:arrogate,assume,deliver,despoil,extort,foray,loot,pillage,plunder,ransack
+medication:APC,Antabuse,Atromid-S,Carafate,Cuprimine,Drixoral,EMDA,Feosol,Fergon,Fosamax
+pollen:aeciospore,ascospore,basidiospore,carpospore,chlamydospore,conidiospore,conidium,endospore,fern seed,macrospore
+season:Advent,Allhallowtide,Christmas,Christmastide,Christmastime,Eastertide,Golden Age,Indian summer,Lammastide,Lent
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+trend:Call,New Look,aim,bandwagon,bearing,bent,connoisseurship,course,culture,delicacy
+eosinophilic:
+inflammation:Jacquemier's sign,Kayser-Fleischer ring,Kernig's sign,Koplik's spots,abscess,acetonemia,acetonuria,adenitis,ague,albuminuria
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+lower:Americanise,Americanize,Europeanise,Europeanize,Frenchify,Islamise,Islamize,abate,abbreviate,abridge
+airway:air duct,air lane,air passage,air-intake,airline,airline business,approach,approach path,approach pattern,beat
+induced:elicited,evoked,iatrogenic
+by:aside,away,past
+review:PM,accounting entry,accrual basis,acid test,action,action at law,adoption,analysis,analytical review,appeal
+oral:buccal,spoken,unwritten
+allergy:allergic reaction,allergic rhinitis,anaphylaxis,atopic allergy,atopy,delayed allergy,food allergy,hives,immediate allergy,nettle rash
+syndrome:ADD,ADHD,Chinese restaurant syndrome,Conn's syndrome,Ekbom syndrome,FAS,Fallot's syndrome,Fallot's tetralogy,Gilles de la Tourette syndrome,Gulf War syndrome
+on:along
+formed:H-shaped,L-shaped,T-shaped,U-shaped,W-shaped,Y-shaped,acorn-shaped,awl-shaped,bacillar,bacillary
+a:A,AB,ADP,AMP,ATP,B,C,D,E,F
+review:PM,accounting entry,accrual basis,acid test,action,action at law,adoption,analysis,analytical review,appeal
+evidence:acquaintance,ammunition,arcanum,argument,attestation,background,background knowledge,circumstance,circumstantial evidence,clew
+provide:accommodate,accord,administer,afford,air-condition,air-cool,allot,allow,allow for,alphabetize
+guidance:acknowledgement,acknowledgment,administration,aim,approval,aside,authorisation,authorization,body,bunk
+health:absolution,ambiance,ambience,amyotonia,anchorage,ascendance,ascendancy,ascendence,ascendency,astigmatism
+care:TLC,accompaniment,action,aid,air cover,angst,anxiousness,attention,baby sitting,babysitting
+on:along
+initial:A,B,C,D,E,F,G,H,I,J
+pharmacologic:pharmacological
+treatment:G-Jo,High Renaissance,Romantic Movement,Romanticism,TLC,acupressure,acupuncture,administration,authorisation,authorization
+seasonal:accumulator,assistant,beater,bill poster,bill sticker,blackleg,bleacher,boater,boatman,carter
+allergic:hypersensitised,hypersensitive,hypersensitized,sensitised,sensitized,supersensitised,supersensitive,supersensitized,susceptible
+rhinitis:adenitis,allergic rhinitis,alveolitis,angiitis,aortitis,appendicitis,arteritis,balanitis,balanoposthitis,blepharitis
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+aged:cured,elderly,mature,of age,old,older,preserved,ripe,ripened,senior
+12:10,100,1000,10000,100000,1000000,1000000000,1000000000000,11,120
+years:Golden Age,Indian summer,Olympiad,Platonic year,Saint Martin's summer,adolescence,adulthood,aeon,age,air alert
+or:Beaver State,ER,OR,Oregon,emergency room,operating room,operating theater,operating theatre,recovery room,surgery
+be:abound,accept,account,account for,act,add up,adhere,adorn,agree,amount
+effective:actual,competent,effectual,efficacious,efficient,existent,good,hard-hitting,impelling,impressive
+relief:acceleration,accommodation,actual damages,alleviation,alternate,alto relievo,alto rilievo,amortisation,amortization,associate
+seasonal:accumulator,assistant,beater,bill poster,bill sticker,blackleg,bleacher,boater,boatman,carter
+allergic:hypersensitised,hypersensitive,hypersensitized,sensitised,sensitized,supersensitised,supersensitive,supersensitized,susceptible
+rhinitis:adenitis,allergic rhinitis,alveolitis,angiitis,aortitis,appendicitis,arteritis,balanitis,balanoposthitis,blepharitis
+rhinitis:adenitis,allergic rhinitis,alveolitis,angiitis,aortitis,appendicitis,arteritis,balanitis,balanoposthitis,blepharitis
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+reported:according,notifiable,reportable
+have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adapt
+circadian:
+tending:TLC,action,aid,attention,baby sitting,babysitting,busywork,care,coursework,dental care
+be:abound,accept,account,account for,act,add up,adhere,adorn,agree,amount
+most:about,almost,near,nearly,nigh,to the highest degree,virtually,well-nigh
+bothersome:annoying,disagreeable,galling,irritating,nettlesome,pesky,pestering,pestiferous,plaguey,plaguy
+overnight:
+in:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cd
+18/09/07 20:36:05 INFO SparkContext: Invoking stop() from shutdown hook
+18/09/07 20:36:05 INFO SparkUI: Stopped Spark web UI at http://LAPTOP-IL49H3LQ:4040
+18/09/07 20:36:05 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+18/09/07 20:36:05 INFO MemoryStore: MemoryStore cleared
+18/09/07 20:36:05 INFO BlockManager: BlockManager stopped
+18/09/07 20:36:05 INFO BlockManagerMaster: BlockManagerMaster stopped
+18/09/07 20:36:05 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+18/09/07 20:36:05 INFO SparkContext: Successfully stopped SparkContext
+18/09/07 20:36:05 INFO ShutdownHookManager: Shutdown hook called
+18/09/07 20:36:05 INFO ShutdownHookManager: Deleting directory C:\Users\ruthv\AppData\Local\Temp\spark-5a6619be-40bf-473d-99e1-a262edeb9020
+
+Process finished with exit code 0
